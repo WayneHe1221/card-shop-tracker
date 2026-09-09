@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 154 件**，已知在庫共 1243 件
+**合計 159 件**，已知在庫共 1263 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -20,24 +20,29 @@
 - [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 2
 - [【ヴァイス販売】トライアルデッキ 1個「東方Project Black and White Lotus Land」](https://www.torecolo.jp/shop/g/g4573616014380/) — 在庫 1
 
-## c-labo 2421（有庫存）（每天）— 4 件
+## c-labo 2421（有庫存）（每天）— 5 件
 
+- [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『魔法少女ノ魔女裁判』(2612/11)](https://www.c-labo-online.jp/product/408254)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『BanG Dream! (夢限大みゅーたいぷ)』(1BOX=10パック) (2611/13)](https://www.c-labo-online.jp/product/400096)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ステラソラ』(2610/16)](https://www.c-labo-online.jp/product/398302)
 
-## gurapan 1081（每天）— 9 件、在庫共 38
+## gurapan 1081（每天）— 13 件、在庫共 58
 
 - [SummerPockets REFLECTIONBLUE Re:Edit【カートン】](https://gurapan.jp/products/detail/197686) — 在庫 5
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
 - [「勝利の女神：NIKKE Vol.2」RR以下4枚ずつセット](https://gurapan.jp/products/detail/223479) — 在庫 2
 - [【簡易版】anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225419) — 在庫 4
 - [anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225420) — 在庫 4
+- [【簡易版】【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227423) — 在庫 3
+- [【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227424) — 在庫 2
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 2
 - [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 3
 - [BanG Dream! (夢限大みゅーたいぷ)【カートン】](https://gurapan.jp/products/detail/228069) — 在庫 10
-- [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 2
+- [超かぐや姫！N(ノーマル)4枚ずつセット](https://gurapan.jp/products/detail/228838) — 在庫 9
+- [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 4
+- [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 4
 
 ## manasource 2268（每天）— 9 件、在庫共 349
 
