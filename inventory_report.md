@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 155 件**，已知在庫共 1222 件
+**合計 154 件**，已知在庫共 1216 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -26,12 +26,12 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『BanG Dream! (夢限大みゅーたいぷ)』(1BOX=10パック) (2611/13)](https://www.c-labo-online.jp/product/400096)
 
-## gurapan 1081（每天）— 11 件、在庫共 41
+## gurapan 1081（每天）— 11 件、在庫共 40
 
 - [SummerPockets REFLECTIONBLUE Re:Edit【カートン】](https://gurapan.jp/products/detail/197686) — 在庫 5
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
 - [「勝利の女神：NIKKE Vol.2」RR以下4枚ずつセット](https://gurapan.jp/products/detail/223479) — 在庫 1
-- [【簡易版】anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225419) — 在庫 3
+- [【簡易版】anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225419) — 在庫 2
 - [anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225420) — 在庫 4
 - [【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227424) — 在庫 2
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 2
@@ -65,20 +65,20 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 97 件、在庫共 595
+## square-bushiroad 284（每天）— 96 件、在庫共 590
 
 - [ヴァイスシュヴァルツ 葬送のフリーレン Vol.2 (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/107480) — 在庫 11
 - [ヴァイスシュヴァルツ 葬送のフリーレン Vol.2 (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/107481) — 在庫 2
 - [ヴァイスシュヴァルツ 「Re:ゼロから始める異世界生活」Vol.4 (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/105039) — 在庫 12
 - [ヴァイスシュヴァルツ 「Re:ゼロから始める異世界生活」Vol.4 (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/105040) — 在庫 7
-- [ヴァイスシュヴァルツ 東方Project 〜 Black and White Lotus Land. トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/100370) — 在庫 12
+- [ヴァイスシュヴァルツ 東方Project 〜 Black and White Lotus Land. トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/100370) — 在庫 11
 - [ヴァイスシュヴァルツ プレミアムブースター アイドルマスター ミリオンライブ！(1BOX・6パック入)(新品商品)](https://www.square-bushiroad.com/product/98805) — 在庫 29
 - [ヴァイスシュヴァルツ プレミアムブースター アイドルマスター ミリオンライブ！(1カートン・30BOX入)(1BOXあたり3600円)(新品商品)](https://www.square-bushiroad.com/product/98806) — 在庫 2
 - [ヴァイスシュヴァルツ TVアニメ『Summer Pockets』 (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/98796) — 在庫 12
 - [ヴァイスシュヴァルツ TVアニメ『Summer Pockets』 (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/98797) — 在庫 1
 - [ヴァイスシュヴァルツ D.C. Re:tune 〜ダ・カーポ〜 リチューン(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/96347) — 在庫 11
 - [ヴァイスシュヴァルツ D.C. Re:tune 〜ダ・カーポ〜 リチューン(1カートン・24BOX入)(1BOXあたり4800円)(新品商品)](https://www.square-bushiroad.com/product/96348) — 在庫 3
-- [ヴァイスシュヴァルツ 『テイルズ オブ』シリーズ トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/91309) — 在庫 4
+- [ヴァイスシュヴァルツ 『テイルズ オブ』シリーズ トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/91309) — 在庫 3
 - [ヴァイスシュヴァルツ プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/91779) — 在庫 4
 - [ヴァイスシュヴァルツ プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3(1カートン・24BOX入)(1BOXあたり5280円)(新品商品)](https://www.square-bushiroad.com/product/91780) — 在庫 3
 - [ヴァイスシュヴァルツ きんいろモザイク 15th Anniversary トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/89773) — 在庫 8
@@ -99,7 +99,7 @@
 - [★SALE★ヴァイスシュヴァルツ 負けヒロインが多すぎる！(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/80378) — 在庫 4
 - [★SALE★ヴァイスシュヴァルツ 負けヒロインが多すぎる！(1カートン・24BOX入)(1BOXあたり3500円)(新品商品)](https://www.square-bushiroad.com/product/80379) — 在庫 1
 - [ヴァイスシュヴァルツ あおぎり高校 トライアルデッキ(1カートン・48個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/78531) — 在庫 1
-- [★SALE★ヴァイスシュヴァルツ 学園アイドルマスター トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/77693) — 在庫 21
+- [★SALE★ヴァイスシュヴァルツ 学園アイドルマスター トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/77693) — 在庫 20
 - [★SALE★ヴァイスシュヴァルツ 学園アイドルマスター トライアルデッキ(1カートン・48個入)(1個あたり1000円)(新品商品)](https://www.square-bushiroad.com/product/77694) — 在庫 2
 - [ヴァイスシュヴァルツ 甘神さんちの縁結び(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/75297) — 在庫 22
 - [ヴァイスシュヴァルツ 甘神さんちの縁結び(1カートン・24BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/75298) — 在庫 2
@@ -115,7 +115,6 @@
 - [ヴァイスシュヴァルツ 『キャプテン翼』 (1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/62337) — 在庫 14
 - [ヴァイスシュヴァルツ 『キャプテン翼』 (1カートン・24BOX入)(1BOXあたり4800円)(新品商品)](https://www.square-bushiroad.com/product/62338) — 在庫 1
 - [ヴァイスシュヴァルツ プレミアムブースター STAR WARS Vol.2(1BOX・6パック入)(新品商品)](https://www.square-bushiroad.com/product/61897) — 在庫 4
-- [ヴァイスシュヴァルツ 映画クレヨンしんちゃん トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/57410) — 在庫 1
 - [ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Next Twinkle!(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/58303) — 在庫 17
 - [ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Next Twinkle! (1カートン・24BOX入)(1BOXあたり4800円)(新品商品)](https://www.square-bushiroad.com/product/58304) — 在庫 3
 - [★SALE★ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Type:Cuteトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/58305) — 在庫 6
@@ -149,7 +148,7 @@
 - [★SALE★ヴァイスシュヴァルツ ウマ娘 プリティーダービー 第1R トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/41116) — 在庫 4
 - [★SALE★ヴァイスシュヴァルツ ウマ娘 プリティーダービー 第1R トライアルデッキ(1カートン・48個入)(1個あたり500円)(新品商品)](https://www.square-bushiroad.com/product/41117) — 在庫 1
 - [★SALE★ヴァイスシュヴァルツ ウマ娘 プリティーダービー 第2R トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/41118) — 在庫 3
-- [★SALE★ヴァイスシュヴァルツ リコリス・リコイル トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/41124) — 在庫 4
+- [★SALE★ヴァイスシュヴァルツ リコリス・リコイル トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/41124) — 在庫 3
 - [★SALE★ヴァイスシュヴァルツ リコリス・リコイル トライアルデッキ(1カートン・48個入)(1個あたり1300円)(新品商品)](https://www.square-bushiroad.com/product/41125) — 在庫 1
 - [ヴァイスシュヴァルツ リコリス・リコイル(1カートン・18BOX入)(1BOXあたり7040円)(新品商品)](https://www.square-bushiroad.com/product/41127) — 在庫 3
 - [ヴァイスシュヴァルツ チェンソーマン トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/38951) — 在庫 2
