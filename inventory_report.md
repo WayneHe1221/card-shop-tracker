@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 150 件**，已知在庫共 1201 件
+**合計 150 件**，已知在庫共 1197 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -36,10 +36,10 @@
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 2
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 2
 
-## manasource 2268（每天）— 9 件、在庫共 349
+## manasource 2268（每天）— 9 件、在庫共 345
 
-- [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 大洗女子学園](https://www.manasource.net/product/196918) — 在庫 24
-- [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 無限軌道杯](https://www.manasource.net/product/196917) — 在庫 24
+- [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 大洗女子学園](https://www.manasource.net/product/196918) — 在庫 22
+- [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 無限軌道杯](https://www.manasource.net/product/196917) — 在庫 22
 - [予約 カードファイト!! ヴァンガード 【VG-DZ-LBT03】 リリカルブースター「リリカルモナステリオ 伝説のアイドル！」 1BOX](https://www.manasource.net/product/196915) — 在庫 72
 - [予約 ホロライブ OFFICIAL CARD GAME ブースターパック 「ボリュームヴォルテックス」 OSR 各1枚 RR・R・UC・C 各4枚ずつセット](https://www.manasource.net/product/196914) — 在庫 3
 - [予約 hololive OFFICIAL CARD GAME ブースターパック「ボリュームヴォルテックス」1BOX](https://www.manasource.net/product/196913) — 在庫 89
