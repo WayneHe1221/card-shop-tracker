@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 151 件**，已知在庫共 1202 件
+**合計 150 件**，已知在庫共 1201 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -26,11 +26,9 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『BanG Dream! (夢限大みゅーたいぷ)』(1BOX=10パック) (2611/13)](https://www.c-labo-online.jp/product/400096)
 
-## gurapan 1081（每天）— 9 件、在庫共 29
+## gurapan 1081（每天）— 7 件、在庫共 27
 
-- [SummerPockets REFLECTIONBLUE Re:Edit【カートン】](https://gurapan.jp/products/detail/197686) — 在庫 1
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
-- [「勝利の女神：NIKKE Vol.2」RR以下4枚ずつセット](https://gurapan.jp/products/detail/223479) — 在庫 1
 - [anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225420) — 在庫 3
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 2
 - [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 2
@@ -63,7 +61,7 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 95 件、在庫共 587
+## square-bushiroad 284（每天）— 96 件、在庫共 588
 
 - [ヴァイスシュヴァルツ 葬送のフリーレン Vol.2 (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/107480) — 在庫 6
 - [ヴァイスシュヴァルツ 葬送のフリーレン Vol.2 (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/107481) — 在庫 5
@@ -155,6 +153,7 @@
 - [ヴァイスシュヴァルツ D4DJ Groovy Mix Happy Around! & Lyrical Lily トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/36035) — 在庫 6
 - [ヴァイスシュヴァルツ D4DJ Groovy Mix Peaky P-key & Photon Maiden トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/36039) — 在庫 4
 - [ヴァイスシュヴァルツ ありふれた職業で世界最強 (1BOX・16パック入)(新品商品)](https://www.square-bushiroad.com/product/36043) — 在庫 3
+- [ヴァイスシュヴァルツ プレミアムブースター MARVEL(1カートン・30BOX入)(1BOXあたり3300円)(新品商品)](https://www.square-bushiroad.com/product/36877) — 在庫 1
 - [【再版仕様】ヴァイスシュヴァルツ Key all-star(1カートン・18BOX入)(1BOXあたり7040円)(新品商品)](https://www.square-bushiroad.com/product/33678) — 在庫 1
 - [ヴァイスシュヴァルツ プレミアムブースター ラブライブ！スクフェスシリーズ感謝祭 2022(1BOX・6パック入)(新品商品)](https://www.square-bushiroad.com/product/30487) — 在庫 8
 - [ヴァイスシュヴァルツ アニメ プリンセスコネクト！Re:Dive Season 2(1カートン・18BOX入)(1BOXあたり7040円)(新品商品)](https://www.square-bushiroad.com/product/29574) — 在庫 1
