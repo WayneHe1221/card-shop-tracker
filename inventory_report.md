@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 150 件**，已知在庫共 1189 件
+**合計 150 件**，已知在庫共 1186 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -14,9 +14,9 @@
 - [【予約商品・全額前金制】【10/30(金)発売】ヴァイスシュヴァルツ ガールズ＆パンツァー 無限軌道杯トライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110903) — 在庫 2
 - [【予約商品・全額前金制】【10/16(金)発売】ヴァイスシュヴァルツ ステラソラトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110369) — 在庫 19
 
-## torecolo ヴァイス新品（每天）— 2 件、在庫共 3
+## torecolo ヴァイス新品（每天）— 2 件、在庫共 2
 
-- [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 2
+- [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 1
 - [【ヴァイス販売】トライアルデッキ 1個「東方Project Black and White Lotus Land」](https://www.torecolo.jp/shop/g/g4573616014380/) — 在庫 1
 
 ## c-labo 2421（有庫存）（每天）— 3 件
@@ -61,10 +61,10 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 96 件、在庫共 585
+## square-bushiroad 284（每天）— 96 件、在庫共 583
 
 - [ヴァイスシュヴァルツ 葬送のフリーレン Vol.2 (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/107480) — 在庫 4
-- [ヴァイスシュヴァルツ 葬送のフリーレン Vol.2 (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/107481) — 在庫 4
+- [ヴァイスシュヴァルツ 葬送のフリーレン Vol.2 (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/107481) — 在庫 2
 - [ヴァイスシュヴァルツ 「Re:ゼロから始める異世界生活」Vol.4 (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/105039) — 在庫 12
 - [ヴァイスシュヴァルツ 「Re:ゼロから始める異世界生活」Vol.4 (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/105040) — 在庫 7
 - [ヴァイスシュヴァルツ 東方Project 〜 Black and White Lotus Land. トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/100370) — 在庫 11
