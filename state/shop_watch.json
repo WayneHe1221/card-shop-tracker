@@ -412,10 +412,6 @@
           "name": "予約 カードファイト!! ヴァンガード 【VG-DZ-LBT03】 リリカルブースター「リリカルモナステリオ 伝説のアイドル！」 1BOX",
           "qty": 72
         },
-        "196913": {
-          "name": "予約 hololive OFFICIAL CARD GAME ブースターパック「ボリュームヴォルテックス」1BOX",
-          "qty": 89
-        },
         "196912": {
           "name": "予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！",
           "qty": 6
@@ -433,7 +429,7 @@
           "qty": 36
         }
       },
-      "raw_count": 13
+      "raw_count": 12
     },
     "cardmax": {
       "products": {
