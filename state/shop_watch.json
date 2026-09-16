@@ -633,9 +633,13 @@
         "177561": {
           "name": "キャプテン翼(8宝)デッキ",
           "qty": 1
+        },
+        "229474": {
+          "name": "デレマス【8扉】デッキ",
+          "qty": 1
         }
       },
-      "raw_count": 4
+      "raw_count": 5
     },
     "bushiroad_deck": {
       "products": {},

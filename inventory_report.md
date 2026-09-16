@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 151 件**，已知在庫共 1085 件
+**合計 152 件**，已知在庫共 1086 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -189,8 +189,9 @@
 - [ダンダダン 8宝デッキ](https://www.hobbystation-single.jp/ws/product/detail/339440) — 在庫 1
 - [東方Project ８扉デッキ](https://www.hobbystation-single.jp/ws/product/detail/342953) — 在庫 1
 
-### gurapan WSデッキ販売（每天）— 1 件、在庫共 1
+### gurapan WSデッキ販売（每天）— 2 件、在庫共 2
 
 - [キャプテン翼(8宝)デッキ](https://gurapan.jp/products/detail/177561) — 在庫 1
+- [デレマス【8扉】デッキ](https://gurapan.jp/products/detail/229474) — 在庫 1
 
 ### square-bushiroad WSデッキ販売（每天）— 0 件
