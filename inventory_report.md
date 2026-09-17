@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 150 件**，已知在庫共 1083 件
+**合計 149 件**，已知在庫共 1062 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -39,13 +39,13 @@
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 3
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 3
 
-## manasource 2268（每天）— 6 件、在庫共 251
+## manasource 2268（每天）— 6 件、在庫共 231
 
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 大洗女子学園](https://www.manasource.net/product/196918) — 在庫 22
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 無限軌道杯](https://www.manasource.net/product/196917) — 在庫 22
 - [予約 カードファイト!! ヴァンガード 【VG-DZ-LBT03】 リリカルブースター「リリカルモナステリオ 伝説のアイドル！」 1BOX](https://www.manasource.net/product/196915) — 在庫 72
 - [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 6
-- [予約 10月23日発売変更！！【VG-DZ-TBP02】 タイトルブースター プレミアム「ペルソナ 30th Anniversary」 1BOX](https://www.manasource.net/product/194482) — 在庫 93
+- [予約 10月23日発売変更！！【VG-DZ-TBP02】 タイトルブースター プレミアム「ペルソナ 30th Anniversary」 1BOX](https://www.manasource.net/product/194482) — 在庫 73
 - [予約 五等分の花嫁 カードゲーム ブースターパック vol.8 恋と青春が最高潮！ 1BOX(12パック)](https://www.manasource.net/product/153147) — 在庫 36
 
 ## cardmax ct1849（每天）— 10 件
@@ -164,7 +164,7 @@
 
 - [バンドリ【宝扉】デッキ](https://weis.fukufukutoreka.com/products/detail/87098)
 
-### torecolo WSデッキ販売（每天）— 7 件、在庫共 7
+### torecolo WSデッキ販売（每天）— 6 件、在庫共 6
 
 - [【ヴァイス】デッキ販売 東方 ８扉](https://www.torecolo.jp/shop/g/gDECK-WSTHP01/) — 在庫 1
 - [【ヴァイス】デッキ販売 BanG Dream! 扉門](https://www.torecolo.jp/shop/g/gDECK-WSBD3/) — 在庫 1
@@ -172,7 +172,6 @@
 - [【ヴァイス】デッキ販売 カードキャプターさくら 扉電源](https://www.torecolo.jp/shop/g/gDECK-WSCCS/) — 在庫 1
 - [【ヴァイス】デッキ販売 BanG Dream! 門枝](https://www.torecolo.jp/shop/g/gDECK-WSBD2/) — 在庫 1
 - [【ヴァイス】デッキ販売 虹ヶ咲 ８枝（栞子単）](https://www.torecolo.jp/shop/g/gDECK-WSLNJ001/) — 在庫 1
-- [【ヴァイス】デッキ販売 ラブライブ! 8宝](https://www.torecolo.jp/shop/g/gDECK-WSLL/) — 在庫 1
 
 ### c-labo WSデッキ販売（每天）— 1 件、在庫共 1
 
