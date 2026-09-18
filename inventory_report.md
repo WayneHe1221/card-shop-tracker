@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 149 件**，已知在庫共 1062 件
+**合計 147 件**，已知在庫共 1059 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -26,13 +26,12 @@
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『BanG Dream! (夢限大みゅーたいぷ)』(1BOX=10パック) (2611/13)](https://www.c-labo-online.jp/product/400096)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『anemoi』(1BOX=10パック) (2610/02)](https://www.c-labo-online.jp/product/394143)
 
-## gurapan 1081（每天）— 10 件、在庫共 35
+## gurapan 1081（每天）— 9 件、在庫共 33
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
-- [【簡易版】「勝利の女神：NIKKE Vol.2」RR以下4枚ずつセット](https://gurapan.jp/products/detail/223480) — 在庫 3
+- [【簡易版】「勝利の女神：NIKKE Vol.2」RR以下4枚ずつセット](https://gurapan.jp/products/detail/223480) — 在庫 2
 - [【簡易版】anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225419) — 在庫 4
 - [anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225420) — 在庫 2
-- [【簡易版】【TD付】ステラソラRR以下4枚ずつセット](https://gurapan.jp/products/detail/227420) — 在庫 1
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 2
 - [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 2
 - [BanG Dream! (夢限大みゅーたいぷ)【カートン】](https://gurapan.jp/products/detail/228069) — 在庫 9
@@ -61,7 +60,7 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 94 件、在庫共 575
+## square-bushiroad 284（每天）— 93 件、在庫共 574
 
 - [ヴァイスシュヴァルツ 「Re:ゼロから始める異世界生活」Vol.4 (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/105039) — 在庫 12
 - [ヴァイスシュヴァルツ 「Re:ゼロから始める異世界生活」Vol.4 (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/105040) — 在庫 7
@@ -131,7 +130,6 @@
 - [【再版仕様】ヴァイスシュヴァルツ アイドルマスター シャイニーカラーズ(1BOX・16パック入)(新品商品)](https://www.square-bushiroad.com/product/50346) — 在庫 2
 - [ヴァイスシュヴァルツ アリス・ギア・アイギス Expansion(1BOX・16パック入)(新品商品)](https://www.square-bushiroad.com/product/47322) — 在庫 6
 - [しろくろカプセル 五等分の花嫁 BOX ver.(1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/45060) — 在庫 1
-- [ヴァイスシュヴァルツ 電撃文庫 (1カートン・18BOX入)(1BOXあたり7040円)(新品商品)](https://www.square-bushiroad.com/product/44496) — 在庫 1
 - [ヴァイスシュヴァルツ 電撃文庫 ヴァイスサイド トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/44497) — 在庫 4
 - [★SALE★ヴァイスシュヴァルツ 電撃文庫 ヴァイスサイド トライアルデッキ(1カートン・48個入)(1個あたり750円)(新品商品)](https://www.square-bushiroad.com/product/44498) — 在庫 1
 - [ヴァイスシュヴァルツ 電撃文庫 シュヴァルツサイド トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/44499) — 在庫 4
