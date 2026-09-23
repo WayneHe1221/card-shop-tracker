@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 146 件**，已知在庫共 1039 件
+**合計 151 件**，已知在庫共 1039 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -47,8 +47,13 @@
 - [予約 10月23日発売変更！！【VG-DZ-TBP02】 タイトルブースター プレミアム「ペルソナ 30th Anniversary」 1BOX](https://www.manasource.net/product/194482) — 在庫 73
 - [予約 五等分の花嫁 カードゲーム ブースターパック vol.8 恋と青春が最高潮！ 1BOX(12パック)](https://www.manasource.net/product/153147) — 在庫 36
 
-## cardmax ct1849（每天）— 10 件
+## cardmax ct1849（每天）— 15 件
 
+- [【予約販売 10月30日発売予定】トライアルデッキ「ガールズ＆パンツァー 大洗女子学園」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233360/)
+- [【予約販売 10月30日発売予定】トライアルデッキ「ガールズ＆パンツァー 無限軌道杯」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233361/)
+- [【予約販売 10月16日発売予定】トライアルデッキ ステラソラ BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233359/)
+- [【予約販売 10月16日発売予定】ブースターパック ステラソラ BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233357/)
+- [【予約販売 10月2日発売予定】ブースターパック anemoi BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233356/)
 - [トライアルデッキ きんいろモザイク 15th Anniversary BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000193811/)
 - [トライアルデッキ 怪獣８号 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000185672/)
 - [トライアルデッキ 負けヒロインが多すぎる！ BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000180669/)
