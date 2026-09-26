@@ -1,13 +1,19 @@
 # 追蹤商品清單
 
-**合計 149 件**，已知在庫共 968 件
+**合計 155 件**，已知在庫共 1089 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
-## square-bushiroad 668（每天）— 7 件、在庫共 201
+## square-bushiroad 668（每天）— 13 件、在庫共 322
 
+- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/113104) — 在庫 48
+- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/113105) — 在庫 7
+- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113106) — 在庫 32
+- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113107) — 在庫 2
+- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113108) — 在庫 32
+- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113109) — 在庫 2
 - [【予約商品・全額前金制】【11/13(金)発売】ヴァイスシュヴァルツ BanG Dream! (夢限大みゅーたいぷ) (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110371) — 在庫 66
-- [【予約商品・全額前金制】【11/13(金)発売】ヴァイスシュヴァルツ BanG Dream! (夢限大みゅーたいぷ) (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/110372) — 在庫 18
+- [【予約商品・全額前金制】【11/13(金)発売】ヴァイスシュヴァルツ BanG Dream! (夢限大みゅーたいぷ) (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/110372) — 在庫 16
 - [【予約商品・全額前金制】【10/30(金)発売】ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110900) — 在庫 47
 - [【予約商品・全額前金制】【10/30(金)発売】ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110901) — 在庫 3
 - [【予約商品・全額前金制】【10/30(金)発売】ヴァイスシュヴァルツ ガールズ＆パンツァー 無限軌道杯トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110902) — 在庫 46
