@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 160 件**，已知在庫共 1092 件
+**合計 158 件**，已知在庫共 1085 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -21,9 +21,9 @@
 - [【予約商品・全額前金制】【10/2(金)発売】ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 47
 - [【予約商品・全額前金制】【10/2(金)発売】ヴァイスシュヴァルツ anemoi (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/109801) — 在庫 7
 
-## torecolo ヴァイス新品（每天）— 2 件、在庫共 6
+## torecolo ヴァイス新品（每天）— 2 件、在庫共 4
 
-- [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 5
+- [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 3
 - [【ヴァイス販売】トライアルデッキ 1個「東方Project Black and White Lotus Land」](https://www.torecolo.jp/shop/g/g4573616014380/) — 在庫 1
 
 ## c-labo 2421（有庫存）（每天）— 3 件
@@ -32,7 +32,7 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『anemoi』(1BOX=10パック) (2610/02)](https://www.c-labo-online.jp/product/394143)
 
-## gurapan 1081（每天）— 12 件、在庫共 50
+## gurapan 1081（每天）— 11 件、在庫共 49
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
 - [【簡易版】anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225419) — 在庫 6
@@ -40,7 +40,6 @@
 - [anemoi【カートン】](https://gurapan.jp/products/detail/225418) — 在庫 11
 - [【簡易版】【TD付】ステラソラRR以下4枚ずつセット](https://gurapan.jp/products/detail/227420) — 在庫 3
 - [【TD付】ステラソラRR以下4枚ずつセット](https://gurapan.jp/products/detail/227421) — 在庫 3
-- [【簡易版】【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227423) — 在庫 1
 - [【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227424) — 在庫 1
 - [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 3
 - [BanG Dream! (夢限大みゅーたいぷ)【カートン】](https://gurapan.jp/products/detail/228069) — 在庫 3
@@ -72,7 +71,7 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 94 件、在庫共 555
+## square-bushiroad 284（每天）— 93 件、在庫共 551
 
 - [ヴァイスシュヴァルツ 「Re:ゼロから始める異世界生活」Vol.4 (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/105039) — 在庫 6
 - [ヴァイスシュヴァルツ 東方Project 〜 Black and White Lotus Land. トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/100370) — 在庫 11
@@ -80,7 +79,6 @@
 - [ヴァイスシュヴァルツ プレミアムブースター アイドルマスター ミリオンライブ！(1カートン・30BOX入)(1BOXあたり3600円)(新品商品)](https://www.square-bushiroad.com/product/98806) — 在庫 2
 - [ヴァイスシュヴァルツ TVアニメ『Summer Pockets』 (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/98796) — 在庫 9
 - [ヴァイスシュヴァルツ TVアニメ『Summer Pockets』 (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/98797) — 在庫 1
-- [ヴァイスシュヴァルツ 青春ブタ野郎は サンタクロースの夢を見ない (1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/98234) — 在庫 4
 - [ヴァイスシュヴァルツ D.C. Re:tune 〜ダ・カーポ〜 リチューン(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/96347) — 在庫 11
 - [ヴァイスシュヴァルツ D.C. Re:tune 〜ダ・カーポ〜 リチューン(1カートン・24BOX入)(1BOXあたり4800円)(新品商品)](https://www.square-bushiroad.com/product/96348) — 在庫 3
 - [ヴァイスシュヴァルツ 『テイルズ オブ』シリーズ トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/91309) — 在庫 2
