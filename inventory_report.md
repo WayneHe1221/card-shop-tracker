@@ -1,10 +1,10 @@
 # 追蹤商品清單
 
-**合計 158 件**，已知在庫共 1085 件
+**合計 158 件**，已知在庫共 1080 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
-## square-bushiroad 668（每天）— 14 件、在庫共 347
+## square-bushiroad 668（每天）— 14 件、在庫共 343
 
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/113104) — 在庫 48
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/113105) — 在庫 6
@@ -12,7 +12,7 @@
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113107) — 在庫 2
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113108) — 在庫 28
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113109) — 在庫 2
-- [【予約商品・全額前金制】【11/13(金)発売】ヴァイスシュヴァルツ BanG Dream! (夢限大みゅーたいぷ) (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110371) — 在庫 66
+- [【予約商品・全額前金制】【11/13(金)発売】ヴァイスシュヴァルツ BanG Dream! (夢限大みゅーたいぷ) (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110371) — 在庫 62
 - [【予約商品・全額前金制】【10/30(金)発売】ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110900) — 在庫 47
 - [【予約商品・全額前金制】【10/30(金)発売】ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110901) — 在庫 3
 - [【予約商品・全額前金制】【10/30(金)発売】ヴァイスシュヴァルツ ガールズ＆パンツァー 無限軌道杯トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110902) — 在庫 46
@@ -32,7 +32,7 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『anemoi』(1BOX=10パック) (2610/02)](https://www.c-labo-online.jp/product/394143)
 
-## gurapan 1081（每天）— 11 件、在庫共 49
+## gurapan 1081（每天）— 11 件、在庫共 48
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
 - [【簡易版】anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225419) — 在庫 6
@@ -41,7 +41,7 @@
 - [【簡易版】【TD付】ステラソラRR以下4枚ずつセット](https://gurapan.jp/products/detail/227420) — 在庫 3
 - [【TD付】ステラソラRR以下4枚ずつセット](https://gurapan.jp/products/detail/227421) — 在庫 3
 - [【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227424) — 在庫 1
-- [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 3
+- [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 2
 - [BanG Dream! (夢限大みゅーたいぷ)【カートン】](https://gurapan.jp/products/detail/228069) — 在庫 3
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 4
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 4
