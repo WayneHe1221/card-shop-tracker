@@ -394,13 +394,9 @@
         "4573616016681": {
           "name": "【ヴァイス予約販売】トライアルデッキ「AEW：Forbidden Door」",
           "qty": 2
-        },
-        "4573616014380": {
-          "name": "【ヴァイス販売】トライアルデッキ 1個「東方Project Black and White Lotus Land」",
-          "qty": 1
         }
       },
-      "raw_count": 9
+      "raw_count": 8
     },
     "manasource": {
       "products": {
@@ -557,7 +553,7 @@
         },
         "228069": {
           "name": "BanG Dream! [夢限大みゅーたいぷ]【カートン】",
-          "qty": 3
+          "qty": 2
         },
         "228839": {
           "name": "【簡易版】アズールレーン Vol.3RR以下4枚ずつセット",

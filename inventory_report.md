@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 164 件**，已知在庫共 1092 件
+**合計 163 件**，已知在庫共 1090 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -21,13 +21,12 @@
 - [【予約商品・全額前金制】【10/2(金)発売】ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 47
 - [【予約商品・全額前金制】【10/2(金)発売】ヴァイスシュヴァルツ anemoi (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/109801) — 在庫 7
 
-## torecolo ヴァイス新品（每天）— 5 件、在庫共 10
+## torecolo ヴァイス新品（每天）— 4 件、在庫共 9
 
 - [【カートン予約販売】ブースター「新日本ﾌﾟﾛﾚｽ×AEW：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016643/) — 在庫 2
 - [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 3
 - [【ヴァイス予約販売】トライアルデッキ「新日本ﾌﾟﾛﾚｽ：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016667/) — 在庫 2
 - [【ヴァイス予約販売】トライアルデッキ「AEW：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016681/) — 在庫 2
-- [【ヴァイス販売】トライアルデッキ 1個「東方Project Black and White Lotus Land」](https://www.torecolo.jp/shop/g/g4573616014380/) — 在庫 1
 
 ## c-labo 2421（有庫存）（每天）— 5 件
 
@@ -37,7 +36,7 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 
-## gurapan 1081（每天）— 12 件、在庫共 54
+## gurapan 1081（每天）— 12 件、在庫共 53
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
 - [【簡易版】anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225419) — 在庫 5
@@ -48,7 +47,7 @@
 - [【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227424) — 在庫 1
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 5
 - [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 5
-- [BanG Dream! (夢限大みゅーたいぷ)【カートン】](https://gurapan.jp/products/detail/228069) — 在庫 3
+- [BanG Dream! (夢限大みゅーたいぷ)【カートン】](https://gurapan.jp/products/detail/228069) — 在庫 2
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 4
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 3
 
