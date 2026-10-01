@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 161 件**，已知在庫共 2458 件
+**合計 159 件**，已知在庫共 2452 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -21,10 +21,9 @@
 - [【予約商品・全額前金制】【10/2(金)発売】ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 45
 - [【予約商品・全額前金制】【10/2(金)発売】ヴァイスシュヴァルツ anemoi (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/109801) — 在庫 6
 
-## torecolo ヴァイス新品（每天）— 4 件、在庫共 8
+## torecolo ヴァイス新品（每天）— 3 件、在庫共 6
 
 - [【カートン予約販売】ブースター「新日本ﾌﾟﾛﾚｽ×AEW：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016643/) — 在庫 2
-- [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 2
 - [【ヴァイス予約販売】トライアルデッキ「新日本ﾌﾟﾛﾚｽ：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016667/) — 在庫 2
 - [【ヴァイス予約販売】トライアルデッキ「AEW：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016681/) — 在庫 2
 
@@ -36,26 +35,26 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 
-## gurapan 1081（每天）— 11 件、在庫共 35
+## gurapan 1081（每天）— 11 件、在庫共 33
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
 - [【簡易版】anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225419) — 在庫 3
 - [anemoiRR以下4枚ずつセット](https://gurapan.jp/products/detail/225420) — 在庫 1
-- [【簡易版】【TD付】ステラソラRR以下4枚ずつセット](https://gurapan.jp/products/detail/227420) — 在庫 3
+- [【簡易版】【TD付】ステラソラRR以下4枚ずつセット](https://gurapan.jp/products/detail/227420) — 在庫 2
 - [【TD付】ステラソラRR以下4枚ずつセット](https://gurapan.jp/products/detail/227421) — 在庫 2
-- [【簡易版】【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227423) — 在庫 2
+- [【簡易版】【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227423) — 在庫 1
 - [【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227424) — 在庫 1
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 5
 - [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 5
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 4
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 3
 
-## manasource 2268（每天）— 5 件、在庫共 68
+## manasource 2268（每天）— 5 件、在庫共 67
 
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 大洗女子学園](https://www.manasource.net/product/196918) — 在庫 20
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 無限軌道杯](https://www.manasource.net/product/196917) — 在庫 20
 - [予約 カードファイト!! ヴァンガード 【VG-DZ-LBT03】 リリカルブースター「リリカルモナステリオ 伝説のアイドル！」 1BOX](https://www.manasource.net/product/196915) — 在庫 10
-- [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 6
+- [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 5
 - [予約 五等分の花嫁 カードゲーム ブースターパック vol.8 恋と青春が最高潮！ 1BOX(12パック)](https://www.manasource.net/product/153147) — 在庫 12
 
 ## cardmax ct1849（每天）— 13 件
@@ -182,11 +181,10 @@
 - [【ヴァイス】デッキ販売 BanG Dream! 門枝](https://www.torecolo.jp/shop/g/gDECK-WSBD2/) — 在庫 1
 - [【ヴァイス】デッキ販売 虹ヶ咲 ８枝（栞子単）](https://www.torecolo.jp/shop/g/gDECK-WSLNJ001/) — 在庫 1
 
-### c-labo WSデッキ販売（每天）— 3 件、在庫共 3
+### c-labo WSデッキ販売（每天）— 2 件、在庫共 2
 
 - [【WS】《赤青》富士見ファンタジア文庫 8電源 デッキ](https://www.c-labo-online.jp/product/411774) — 在庫 1
 - [【WS】《青赤》アイドルマスターシンデレラガールズ 門ストブ デッキ](https://www.c-labo-online.jp/product/384770) — 在庫 1
-- [【WS】《赤》アクセル・ワールド 8扉 デッキ](https://www.c-labo-online.jp/product/411773) — 在庫 1
 
 ### Hobby Station WSデッキ販売（每天）— 6 件、在庫共 6
 
