@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 163 件**，已知在庫共 1090 件
+**合計 163 件**，已知在庫共 1089 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -21,10 +21,10 @@
 - [【予約商品・全額前金制】【10/2(金)発売】ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 47
 - [【予約商品・全額前金制】【10/2(金)発売】ヴァイスシュヴァルツ anemoi (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/109801) — 在庫 7
 
-## torecolo ヴァイス新品（每天）— 4 件、在庫共 9
+## torecolo ヴァイス新品（每天）— 4 件、在庫共 8
 
 - [【カートン予約販売】ブースター「新日本ﾌﾟﾛﾚｽ×AEW：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016643/) — 在庫 2
-- [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 3
+- [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 2
 - [【ヴァイス予約販売】トライアルデッキ「新日本ﾌﾟﾛﾚｽ：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016667/) — 在庫 2
 - [【ヴァイス予約販売】トライアルデッキ「AEW：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016681/) — 在庫 2
 
