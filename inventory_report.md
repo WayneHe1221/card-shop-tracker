@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 156 件**，已知在庫共 962 件
+**合計 154 件**，已知在庫共 955 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -68,7 +68,7 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 96 件、在庫共 560
+## square-bushiroad 284（每天）— 94 件、在庫共 553
 
 - [ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 12
 - [ヴァイスシュヴァルツ anemoi (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/109801) — 在庫 7
@@ -128,8 +128,6 @@
 - [★SALE★ヴァイスシュヴァルツ Disney ミラー・ウォリアーズ (1カートン・24BOX入)(1BOXあたり2500円)(新品商品)](https://www.square-bushiroad.com/product/57397) — 在庫 3
 - [ヴァイスシュヴァルツ Disney ミラー・ウォリアーズ トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/57398) — 在庫 6
 - [★SALE★ヴァイスシュヴァルツ Disney ミラー・ウォリアーズ トライアルデッキ(1カートン・48個入)(1個あたり1000円)(新品商品)](https://www.square-bushiroad.com/product/57399) — 在庫 1
-- [ヴァイスシュヴァルツ アイドルマスター シャイニーカラーズ Shine More!(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/56177) — 在庫 6
-- [ヴァイスシュヴァルツ アイドルマスター シャイニーカラーズ Shine More!(1カートン・24BOX入)(1BOXあたり5280円)(新品商品)](https://www.square-bushiroad.com/product/56178) — 在庫 1
 - [ヴァイスシュヴァルツ プレミアムブースター ホロライブプロダクション Summer Collection(1BOX・6パック入)(新品商品)](https://www.square-bushiroad.com/product/55317) — 在庫 2
 - [ヴァイスシュヴァルツ プレミアムブースター ホロライブプロダクション Summer Collection (1カートン・30BOX入)(1BOXあたり3990円)(新品商品)](https://www.square-bushiroad.com/product/55318) — 在庫 1
 - [【再販仕様】ヴァイスシュヴァルツ プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.2(1BOX・16パック入)(新品商品)](https://www.square-bushiroad.com/product/50348) — 在庫 5
