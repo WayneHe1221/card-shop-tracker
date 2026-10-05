@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 155 件**，已知在庫共 959 件
+**合計 155 件**，已知在庫共 960 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -69,7 +69,7 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 94 件、在庫共 553
+## square-bushiroad 284（每天）— 94 件、在庫共 554
 
 - [ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 12
 - [ヴァイスシュヴァルツ anemoi (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/109801) — 在庫 7
@@ -95,7 +95,7 @@
 - [★SALE★ヴァイスシュヴァルツ MARVEL Vol.3 (MARVEL STUDIOS) (1カートン・24BOX入)(1BOXあたり4500円)(新品商品)](https://www.square-bushiroad.com/product/87816) — 在庫 1
 - [ヴァイスシュヴァルツ 怪獣8号 トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/83846) — 在庫 11
 - [★SALE★ヴァイスシュヴァルツ 怪獣8号(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/83848) — 在庫 17
-- [ヴァイスシュヴァルツ Toy Story 30YEARS＆BEYOND(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/83843) — 在庫 5
+- [ヴァイスシュヴァルツ Toy Story 30YEARS＆BEYOND(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/83843) — 在庫 4
 - [ヴァイスシュヴァルツ Summer Pockets REFLECTION BLUE Re:Edit(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/83339) — 在庫 12
 - [ヴァイスシュヴァルツ Summer Pockets REFLECTION BLUE Re:Edit(1カートン・24BOX入)(1BOXあたり5280円)(新品商品)](https://www.square-bushiroad.com/product/83340) — 在庫 1
 - [★SALE★ヴァイスシュヴァルツ 負けヒロインが多すぎる！ トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/80376) — 在庫 2
@@ -129,6 +129,7 @@
 - [★SALE★ヴァイスシュヴァルツ Disney ミラー・ウォリアーズ (1カートン・24BOX入)(1BOXあたり2500円)(新品商品)](https://www.square-bushiroad.com/product/57397) — 在庫 3
 - [ヴァイスシュヴァルツ Disney ミラー・ウォリアーズ トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/57398) — 在庫 6
 - [★SALE★ヴァイスシュヴァルツ Disney ミラー・ウォリアーズ トライアルデッキ(1カートン・48個入)(1個あたり1000円)(新品商品)](https://www.square-bushiroad.com/product/57399) — 在庫 1
+- [ヴァイスシュヴァルツ アイドルマスター シャイニーカラーズ Shine More!(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/56177) — 在庫 3
 - [ヴァイスシュヴァルツ プレミアムブースター ホロライブプロダクション Summer Collection(1BOX・6パック入)(新品商品)](https://www.square-bushiroad.com/product/55317) — 在庫 2
 - [ヴァイスシュヴァルツ プレミアムブースター ホロライブプロダクション Summer Collection (1カートン・30BOX入)(1BOXあたり3990円)(新品商品)](https://www.square-bushiroad.com/product/55318) — 在庫 1
 - [【再販仕様】ヴァイスシュヴァルツ プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.2(1BOX・16パック入)(新品商品)](https://www.square-bushiroad.com/product/50348) — 在庫 5
@@ -138,7 +139,6 @@
 - [【再版仕様】ヴァイスシュヴァルツ アイドルマスター シャイニーカラーズ(1BOX・16パック入)(新品商品)](https://www.square-bushiroad.com/product/50346) — 在庫 2
 - [ヴァイスシュヴァルツ アリス・ギア・アイギス Expansion(1BOX・16パック入)(新品商品)](https://www.square-bushiroad.com/product/47322) — 在庫 6
 - [しろくろカプセル 五等分の花嫁 BOX ver.(1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/45060) — 在庫 1
-- [ヴァイスシュヴァルツ 電撃文庫 (1カートン・18BOX入)(1BOXあたり7040円)(新品商品)](https://www.square-bushiroad.com/product/44496) — 在庫 1
 - [ヴァイスシュヴァルツ 電撃文庫 ヴァイスサイド トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/44497) — 在庫 4
 - [★SALE★ヴァイスシュヴァルツ 電撃文庫 ヴァイスサイド トライアルデッキ(1カートン・48個入)(1個あたり750円)(新品商品)](https://www.square-bushiroad.com/product/44498) — 在庫 1
 - [ヴァイスシュヴァルツ 電撃文庫 シュヴァルツサイド トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/44499) — 在庫 4
