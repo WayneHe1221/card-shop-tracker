@@ -562,20 +562,12 @@
     },
     "torecolo_deck": {
       "products": {
-        "DECK-WSBD3": {
-          "name": "【ヴァイス】デッキ販売 BanG Dream! 扉門",
-          "qty": 1
-        },
         "DECK-WSDAL": {
           "name": "【ヴァイス】デッキ販売 デート・ア・ライブ 8宝",
           "qty": 1
         },
         "DECK-WSCCS": {
           "name": "【ヴァイス】デッキ販売 カードキャプターさくら 扉電源",
-          "qty": 1
-        },
-        "DECK-WSBD2": {
-          "name": "【ヴァイス】デッキ販売 BanG Dream! 門枝",
           "qty": 1
         },
         "DECK-WSLNJ001": {

@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 156 件**，已知在庫共 966 件
+**合計 154 件**，已知在庫共 964 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -171,12 +171,10 @@
 
 ### 福福トレカ WSデッキ販売（每天）— 0 件
 
-### torecolo WSデッキ販売（每天）— 5 件、在庫共 5
+### torecolo WSデッキ販売（每天）— 3 件、在庫共 3
 
-- [【ヴァイス】デッキ販売 BanG Dream! 扉門](https://www.torecolo.jp/shop/g/gDECK-WSBD3/) — 在庫 1
 - [【ヴァイス】デッキ販売 デート・ア・ライブ 8宝](https://www.torecolo.jp/shop/g/gDECK-WSDAL/) — 在庫 1
 - [【ヴァイス】デッキ販売 カードキャプターさくら 扉電源](https://www.torecolo.jp/shop/g/gDECK-WSCCS/) — 在庫 1
-- [【ヴァイス】デッキ販売 BanG Dream! 門枝](https://www.torecolo.jp/shop/g/gDECK-WSBD2/) — 在庫 1
 - [【ヴァイス】デッキ販売 虹ヶ咲 ８枝（栞子単）](https://www.torecolo.jp/shop/g/gDECK-WSLNJ001/) — 在庫 1
 
 ### c-labo WSデッキ販売（每天）— 1 件、在庫共 1
