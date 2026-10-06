@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 157 件**，已知在庫共 967 件
+**合計 156 件**，已知在庫共 966 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -20,10 +20,9 @@
 - [【予約商品・全額前金制】【10/30(金)発売】ヴァイスシュヴァルツ ガールズ＆パンツァー 無限軌道杯トライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110903) — 在庫 2
 - [【予約商品・全額前金制】【10/16(金)発売】ヴァイスシュヴァルツ ステラソラトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110369) — 在庫 12
 
-## torecolo ヴァイス新品（每天）— 5 件、在庫共 7
+## torecolo ヴァイス新品（每天）— 4 件、在庫共 6
 
 - [【カートン予約販売】ブースター「新日本ﾌﾟﾛﾚｽ×AEW：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016643/) — 在庫 1
-- [【カートン予約販売】ブースター「ｶﾞｰﾙｽﾞ&ﾊﾟﾝﾂｧｰ」](https://www.torecolo.jp/shop/g/g4573616015837/) — 在庫 1
 - [【ヴァイス予約販売】トライアルデッキ「新日本ﾌﾟﾛﾚｽ：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016667/) — 在庫 2
 - [【ヴァイス予約販売】トライアルデッキ「AEW：Forbidden Door」](https://www.torecolo.jp/shop/g/g4573616016681/) — 在庫 2
 - [【ヴァイス販売】トライアルデッキ 1個「東方Project Black and White Lotus Land」](https://www.torecolo.jp/shop/g/g4573616014380/) — 在庫 1
