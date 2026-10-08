@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 157 件**，已知在庫共 1040 件
+**合計 157 件**，已知在庫共 1038 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -72,7 +72,7 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 95 件、在庫共 561
+## square-bushiroad 284（每天）— 95 件、在庫共 559
 
 - [ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 12
 - [ヴァイスシュヴァルツ anemoi (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/109801) — 在庫 7
@@ -99,7 +99,7 @@
 - [★SALE★ヴァイスシュヴァルツ MARVEL Vol.3 (MARVEL STUDIOS) (1カートン・24BOX入)(1BOXあたり4500円)(新品商品)](https://www.square-bushiroad.com/product/87816) — 在庫 1
 - [ヴァイスシュヴァルツ 怪獣8号 トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/83846) — 在庫 11
 - [★SALE★ヴァイスシュヴァルツ 怪獣8号(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/83848) — 在庫 17
-- [ヴァイスシュヴァルツ Toy Story 30YEARS＆BEYOND(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/83843) — 在庫 4
+- [ヴァイスシュヴァルツ Toy Story 30YEARS＆BEYOND(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/83843) — 在庫 2
 - [ヴァイスシュヴァルツ Summer Pockets REFLECTION BLUE Re:Edit(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/83339) — 在庫 12
 - [ヴァイスシュヴァルツ Summer Pockets REFLECTION BLUE Re:Edit(1カートン・24BOX入)(1BOXあたり5280円)(新品商品)](https://www.square-bushiroad.com/product/83340) — 在庫 1
 - [★SALE★ヴァイスシュヴァルツ 負けヒロインが多すぎる！ トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/80376) — 在庫 2
