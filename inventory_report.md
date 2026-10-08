@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 157 件**，已知在庫共 1038 件
+**合計 157 件**，已知在庫共 1036 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -72,7 +72,7 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 95 件、在庫共 559
+## square-bushiroad 284（每天）— 95 件、在庫共 557
 
 - [ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 12
 - [ヴァイスシュヴァルツ anemoi (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/109801) — 在庫 7
@@ -125,7 +125,7 @@
 - [ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Next Twinkle!(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/58303) — 在庫 10
 - [ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Next Twinkle! (1カートン・24BOX入)(1BOXあたり4800円)(新品商品)](https://www.square-bushiroad.com/product/58304) — 在庫 3
 - [★SALE★ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Type:Cuteトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/58305) — 在庫 5
-- [ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Type:Coolトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/58307) — 在庫 5
+- [ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Type:Coolトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/58307) — 在庫 3
 - [★SALE★ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Type:Passionトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/58309) — 在庫 11
 - [ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Type:Passion トライアルデッキ(1カートン・48個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/58310) — 在庫 1
 - [ヴァイスシュヴァルツ ゆるキャン△ SEASON３トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/59603) — 在庫 15
