@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 162 件**，已知在庫共 1165 件
+**合計 161 件**，已知在庫共 1160 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -33,25 +33,24 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 
-## gurapan 1081（每天）— 9 件、在庫共 29
+## gurapan 1081（每天）— 8 件、在庫共 25
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
-- [【TD付】ステラソラRR以下4枚ずつセット](https://gurapan.jp/products/detail/227421) — 在庫 1
-- [【簡易版】【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227423) — 在庫 2
+- [【簡易版】【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227423) — 在庫 1
 - [【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227424) — 在庫 2
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 3
-- [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 5
-- [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 4
+- [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 4
+- [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 3
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 4
 - [新日本プロレス×AEW：Forbidden Door【カートン】](https://gurapan.jp/products/detail/230475) — 在庫 2
 
-## manasource 2268（每天）— 10 件、在庫共 292
+## manasource 2268（每天）— 10 件、在庫共 288
 
 - [予約 パルワールド オフィシャルカードゲーム ブースターパック 目覚めし伝説 1BOX](https://www.manasource.net/product/198506) — 在庫 36
 - [予約 タカラトミー(TAKARA TOMY) HV-P04 ハイキュー!! バボカ!! BREAK ブースターパック 才能とセンス 1BOX](https://www.manasource.net/product/198505) — 在庫 32
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 大洗女子学園](https://www.manasource.net/product/196918) — 在庫 20
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 無限軌道杯](https://www.manasource.net/product/196917) — 在庫 20
-- [予約 カードファイト!! ヴァンガード 【VG-DZ-LBT03】 リリカルブースター「リリカルモナステリオ 伝説のアイドル！」 1BOX](https://www.manasource.net/product/196915) — 在庫 49
+- [予約 カードファイト!! ヴァンガード 【VG-DZ-LBT03】 リリカルブースター「リリカルモナステリオ 伝説のアイドル！」 1BOX](https://www.manasource.net/product/196915) — 在庫 45
 - [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 4
 - [予約 【VG-DZ-SS22】 スペシャルシリーズ「ランダムマスターデッキ 26人の先導者(せんどうしゃ)」](https://www.manasource.net/product/195603) — 在庫 14
 - [予約 リセ オーバーチュア Ver.アミューズクラフト 2.0 1BOX(20パック）](https://www.manasource.net/product/150019) — 在庫 48
@@ -74,10 +73,10 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 98 件、在庫共 574
+## square-bushiroad 284（每天）— 98 件、在庫共 577
 
 - [ヴァイスシュヴァルツ ステラソラ (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110367) — 在庫 25
-- [ヴァイスシュヴァルツ ステラソラ (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/110368) — 在庫 4
+- [ヴァイスシュヴァルツ ステラソラ (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/110368) — 在庫 7
 - [ヴァイスシュヴァルツ ステラソラトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110369) — 在庫 2
 - [ヴァイスシュヴァルツ ステラソラトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110370) — 在庫 2
 - [ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 12
