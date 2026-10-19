@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 158 件**，已知在庫共 1220 件
+**合計 156 件**，已知在庫共 1233 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -32,16 +32,15 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 
-## gurapan 1081（每天）— 8 件、在庫共 23
+## gurapan 1081（每天）— 7 件、在庫共 37
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
-- [【簡易版】【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227423) — 在庫 1
-- [【TD付】ガールズ＆パンツァーRR以下4枚ずつセット](https://gurapan.jp/products/detail/227424) — 在庫 2
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 2
 - [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 3
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 3
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 4
-- [新日本プロレス×AEW：Forbidden Door【カートン】](https://gurapan.jp/products/detail/230475) — 在庫 2
+- [新日本プロレス×AEW：Forbidden Door【カートン】](https://gurapan.jp/products/detail/230475) — 在庫 9
+- [【PBS】お兄ちゃんはおしまい！【カートン】](https://gurapan.jp/products/detail/230476) — 在庫 10
 
 ## manasource 2268（每天）— 10 件、在庫共 369
 
@@ -72,7 +71,7 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 96 件、在庫共 564
+## square-bushiroad 284（每天）— 95 件、在庫共 563
 
 - [ヴァイスシュヴァルツ ステラソラ (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110367) — 在庫 20
 - [ヴァイスシュヴァルツ ステラソラトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110369) — 在庫 2
@@ -135,7 +134,6 @@
 - [ヴァイスシュヴァルツ Disney ミラー・ウォリアーズ トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/57398) — 在庫 6
 - [★SALE★ヴァイスシュヴァルツ Disney ミラー・ウォリアーズ トライアルデッキ(1カートン・48個入)(1個あたり1000円)(新品商品)](https://www.square-bushiroad.com/product/57399) — 在庫 1
 - [ヴァイスシュヴァルツ アイドルマスター シャイニーカラーズ Shine More!(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/56177) — 在庫 3
-- [ヴァイスシュヴァルツ プレミアムブースター ホロライブプロダクション Summer Collection(1BOX・6パック入)(新品商品)](https://www.square-bushiroad.com/product/55317) — 在庫 1
 - [ヴァイスシュヴァルツ プレミアムブースター ホロライブプロダクション Summer Collection (1カートン・30BOX入)(1BOXあたり3990円)(新品商品)](https://www.square-bushiroad.com/product/55318) — 在庫 1
 - [【再販仕様】ヴァイスシュヴァルツ プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.2(1BOX・16パック入)(新品商品)](https://www.square-bushiroad.com/product/50348) — 在庫 5
 - [ヴァイスシュヴァルツ 推しの子 (1BOX・16パック入)(新品商品)](https://www.square-bushiroad.com/product/49271) — 在庫 15
