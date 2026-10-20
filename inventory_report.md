@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 155 件**，已知在庫共 1182 件
+**合計 154 件**，已知在庫共 1182 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -25,12 +25,11 @@
 
 - [【ヴァイス販売】トライアルデッキ 1個「東方Project Black and White Lotus Land」](https://www.torecolo.jp/shop/g/g4573616014380/) — 在庫 1
 
-## c-labo 2421（有庫存）（每天）— 7 件
+## c-labo 2421（有庫存）（每天）— 6 件
 
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『新日本プロレス：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412835)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『AEW：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412834)
-- [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『Persona 30th Anniversary』(1BOX=10パック) (2611/27)](https://www.c-labo-online.jp/product/407246)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『ガールズ＆パンツァー』(1BOX=10パック) (2610/30)](https://www.c-labo-online.jp/product/403400)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
