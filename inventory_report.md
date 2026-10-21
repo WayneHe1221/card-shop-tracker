@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 157 件**，已知在庫共 1183 件
+**合計 159 件**，已知在庫共 1190 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -48,14 +48,14 @@
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 5
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance【カートン】](https://gurapan.jp/products/detail/231374) — 在庫 11
 
-## manasource 2268（每天）— 8 件、在庫共 267
+## manasource 2268（每天）— 8 件、在庫共 264
 
 - [予約 パルワールド オフィシャルカードゲーム ブースターパック 目覚めし伝説 1BOX](https://www.manasource.net/product/198506) — 在庫 36
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 大洗女子学園](https://www.manasource.net/product/196918) — 在庫 20
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 無限軌道杯](https://www.manasource.net/product/196917) — 在庫 20
 - [予約 カードファイト!! ヴァンガード 【VG-DZ-LBT03】 リリカルブースター「リリカルモナステリオ 伝説のアイドル！」 1BOX](https://www.manasource.net/product/196915) — 在庫 35
 - [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 4
-- [予約 【VG-DZ-SS22】 スペシャルシリーズ「ランダムマスターデッキ 26人の先導者(せんどうしゃ)」](https://www.manasource.net/product/195603) — 在庫 95
+- [予約 【VG-DZ-SS22】 スペシャルシリーズ「ランダムマスターデッキ 26人の先導者(せんどうしゃ)」](https://www.manasource.net/product/195603) — 在庫 92
 - [予約 リセ オーバーチュア Ver.アミューズクラフト 2.0 1BOX(20パック）](https://www.manasource.net/product/150019) — 在庫 48
 - [予約 五等分の花嫁 カードゲーム ブースターパック vol.8 恋と青春が最高潮！ 1BOX(12パック)](https://www.manasource.net/product/153147) — 在庫 9
 
@@ -75,10 +75,11 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 92 件、在庫共 560
+## square-bushiroad 284（每天）— 94 件、在庫共 570
 
 - [ヴァイスシュヴァルツ ステラソラ (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110367) — 在庫 18
 - [ヴァイスシュヴァルツ ステラソラ (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110368) — 在庫 7
+- [ヴァイスシュヴァルツ ステラソラトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110369) — 在庫 8
 - [ヴァイスシュヴァルツ ステラソラトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110370) — 在庫 2
 - [ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 12
 - [ヴァイスシュヴァルツ anemoi (1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/109801) — 在庫 7
@@ -98,6 +99,7 @@
 - [ヴァイスシュヴァルツ きんいろモザイク 15th Anniversary(1カートン・24BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/89776) — 在庫 3
 - [★SALE★ヴァイスシュヴァルツ ブルーアーカイブ The Animation(1カートン・24BOX入)(1BOXあたり3500円)(新品商品)](https://www.square-bushiroad.com/product/89786) — 在庫 3
 - [ヴァイスシュヴァルツ プレミアムブースター アイドルマスター シャイニーカラーズ(1BOX・6パック入)(新品商品)](https://www.square-bushiroad.com/product/86677) — 在庫 31
+- [★SALE★ヴァイスシュヴァルツ プレミアムブースター アイドルマスター シャイニーカラーズ(1カートン・30BOX入)(1BOXあたり2500円)(新品商品)](https://www.square-bushiroad.com/product/86678) — 在庫 2
 - [ヴァイスシュヴァルツ MARVEL Vol.3 (MARVEL STUDIOS) (1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/87815) — 在庫 18
 - [★SALE★ヴァイスシュヴァルツ MARVEL Vol.3 (MARVEL STUDIOS) (1カートン・24BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/87816) — 在庫 1
 - [ヴァイスシュヴァルツ 怪獣8号 トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/83846) — 在庫 11
