@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 162 件**，已知在庫共 1176 件
+**合計 159 件**，已知在庫共 1174 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -21,9 +21,8 @@
 - [【予約商品・全額前金制】【10/30(金)発売】ヴァイスシュヴァルツ ガールズ＆パンツァー 無限軌道杯トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110902) — 在庫 29
 - [【予約商品・全額前金制】【10/30(金)発売】ヴァイスシュヴァルツ ガールズ＆パンツァー 無限軌道杯トライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110903) — 在庫 2
 
-## torecolo ヴァイス新品（每天）— 2 件、在庫共 3
+## torecolo ヴァイス新品（每天）— 1 件、在庫共 2
 
-- [【カートン予約販売】ブースター「Persona 30th Anniversary」](https://www.torecolo.jp/shop/g/g4573616015950/) — 在庫 1
 - [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 2
 
 ## c-labo 2421（有庫存）（每天）— 6 件
@@ -35,7 +34,7 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 
-## gurapan 1081（每天）— 13 件、在庫共 54
+## gurapan 1081（每天）— 12 件、在庫共 53
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 3
@@ -46,7 +45,6 @@
 - [【簡易版】【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231378) — 在庫 4
 - [【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231379) — 在庫 3
 - [新日本プロレス×AEW：Forbidden Door【カートン】](https://gurapan.jp/products/detail/230475) — 在庫 9
-- [【PBS】お兄ちゃんはおしまい！N(ノーマル)4枚ずつセット](https://gurapan.jp/products/detail/231377) — 在庫 1
 - [【PBS】お兄ちゃんはおしまい！【カートン】](https://gurapan.jp/products/detail/230476) — 在庫 3
 - [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 4
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 4
@@ -62,11 +60,10 @@
 - [予約 リセ オーバーチュア Ver.アミューズクラフト 2.0 1BOX(20パック）](https://www.manasource.net/product/150019) — 在庫 48
 - [予約 五等分の花嫁 カードゲーム ブースターパック vol.8 恋と青春が最高潮！ 1BOX(12パック)](https://www.manasource.net/product/153147) — 在庫 9
 
-## cardmax ct1849（每天）— 13 件
+## cardmax ct1849（每天）— 12 件
 
 - [【予約販売 10月30日発売予定】トライアルデッキ「ガールズ＆パンツァー 大洗女子学園」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233360/)
 - [【予約販売 10月30日発売予定】トライアルデッキ「ガールズ＆パンツァー 無限軌道杯」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233361/)
-- [ブースターパック ステラソラ BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233357/)
 - [トライアルデッキ きんいろモザイク 15th Anniversary BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000193811/)
 - [トライアルデッキ 怪獣８号 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000185672/)
 - [トライアルデッキ 負けヒロインが多すぎる！ BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000180669/)
