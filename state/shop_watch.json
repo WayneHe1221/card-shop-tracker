@@ -383,9 +383,9 @@
     },
     "torecolo": {
       "products": {
-        "4573616014380": {
-          "name": "【ヴァイス販売】トライアルデッキ 1個「東方Project Black and White Lotus Land」",
-          "qty": 1
+        "4573616016261": {
+          "name": "【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」",
+          "qty": 2
         }
       },
       "raw_count": 6
@@ -414,7 +414,7 @@
         },
         "195603": {
           "name": "予約 【VG-DZ-SS22】 スペシャルシリーズ「ランダムマスターデッキ 26人の先導者(せんどうしゃ)」",
-          "qty": 92
+          "qty": 86
         },
         "150019": {
           "name": "予約 リセ オーバーチュア Ver.アミューズクラフト 2.0 1BOX(20パック）",
@@ -519,11 +519,15 @@
         },
         "228071": {
           "name": "【簡易版】BanG Dream! [夢限大みゅーたいぷ]RR以下4枚ずつセット",
-          "qty": 2
+          "qty": 3
         },
         "228070": {
           "name": "BanG Dream! [夢限大みゅーたいぷ]RR以下4枚ずつセット",
           "qty": 3
+        },
+        "228069": {
+          "name": "BanG Dream! [夢限大みゅーたいぷ]【カートン】",
+          "qty": 7
         },
         "228839": {
           "name": "【簡易版】アズールレーン Vol.3RR以下4枚ずつセット",
@@ -533,17 +537,25 @@
           "name": "アズールレーン Vol.3RR以下4枚ずつセット",
           "qty": 4
         },
+        "231378": {
+          "name": "【簡易版】【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット",
+          "qty": 4
+        },
+        "231379": {
+          "name": "【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット",
+          "qty": 3
+        },
         "230475": {
           "name": "新日本プロレス×AEW：Forbidden Door【カートン】",
           "qty": 9
         },
         "231377": {
           "name": "【PBS】お兄ちゃんはおしまい！N(ノーマル)4枚ずつセット",
-          "qty": 3
+          "qty": 4
         },
         "230476": {
           "name": "【PBS】お兄ちゃんはおしまい！【カートン】",
-          "qty": 8
+          "qty": 3
         },
         "231375": {
           "name": "【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
@@ -551,14 +563,10 @@
         },
         "231376": {
           "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
-          "qty": 5
-        },
-        "231374": {
-          "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance【カートン】",
-          "qty": 11
+          "qty": 4
         }
       },
-      "raw_count": 19
+      "raw_count": 21
     },
     "clabo": {
       "products": {
