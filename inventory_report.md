@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 159 件**，已知在庫共 1155 件
+**合計 162 件**，已知在庫共 1155 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -25,11 +25,14 @@
 
 - [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 2
 
-## c-labo 2421（有庫存）（每天）— 6 件
+## c-labo 2421（有庫存）（每天）— 9 件
 
+- [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance』(1BOX=10パック) (2701/29)](https://www.c-labo-online.jp/product/417415)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『新日本プロレス：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412835)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『AEW：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412834)
+- [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『魔法少女ノ魔女裁判』(2612/11)](https://www.c-labo-online.jp/product/408254)
+- [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『Persona 30th Anniversary』(1BOX=10パック) (2611/27)](https://www.c-labo-online.jp/product/407246)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『ガールズ＆パンツァー』(1BOX=10パック) (2610/30)](https://www.c-labo-online.jp/product/403400)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
