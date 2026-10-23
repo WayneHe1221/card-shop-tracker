@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 162 件**，已知在庫共 1155 件
+**合計 162 件**，已知在庫共 1160 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -25,9 +25,8 @@
 
 - [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 2
 
-## c-labo 2421（有庫存）（每天）— 9 件
+## c-labo 2421（有庫存）（每天）— 8 件
 
-- [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance』(1BOX=10パック) (2701/29)](https://www.c-labo-online.jp/product/417415)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『新日本プロレス：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412835)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『AEW：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412834)
@@ -37,7 +36,7 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 
-## gurapan 1081（每天）— 12 件、在庫共 52
+## gurapan 1081（每天）— 13 件、在庫共 57
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 3
@@ -48,6 +47,7 @@
 - [【簡易版】【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231378) — 在庫 4
 - [【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231379) — 在庫 3
 - [新日本プロレス×AEW：Forbidden Door【カートン】](https://gurapan.jp/products/detail/230475) — 在庫 9
+- [【PBS】お兄ちゃんはおしまい！N(ノーマル)4枚ずつセット](https://gurapan.jp/products/detail/231377) — 在庫 5
 - [【PBS】お兄ちゃんはおしまい！【カートン】](https://gurapan.jp/products/detail/230476) — 在庫 3
 - [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 3
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 4
