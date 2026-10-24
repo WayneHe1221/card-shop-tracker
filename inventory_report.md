@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 162 件**，已知在庫共 1143 件
+**合計 160 件**，已知在庫共 1136 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -28,12 +28,11 @@
 
 - [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 2
 
-## c-labo 2421（有庫存）（每天）— 7 件
+## c-labo 2421（有庫存）（每天）— 6 件
 
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『新日本プロレス：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412835)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『AEW：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412834)
-- [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『Persona 30th Anniversary』(1BOX=10パック) (2611/27)](https://www.c-labo-online.jp/product/407246)
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『ガールズ＆パンツァー』(1BOX=10パック) (2610/30)](https://www.c-labo-online.jp/product/403400)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
@@ -54,14 +53,13 @@
 - [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 3
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 4
 
-## manasource 2268（每天）— 7 件、在庫共 167
+## manasource 2268（每天）— 6 件、在庫共 160
 
 - [予約 パルワールド オフィシャルカードゲーム ブースターパック 目覚めし伝説 1BOX](https://www.manasource.net/product/198506) — 在庫 36
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 大洗女子学園](https://www.manasource.net/product/196918) — 在庫 20
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 無限軌道杯](https://www.manasource.net/product/196917) — 在庫 20
-- [予約 カードファイト!! ヴァンガード 【VG-DZ-LBT03】 リリカルブースター「リリカルモナステリオ 伝説のアイドル！」 1BOX](https://www.manasource.net/product/196915) — 在庫 4
 - [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 4
-- [予約 【VG-DZ-SS22】 スペシャルシリーズ「ランダムマスターデッキ 26人の先導者(せんどうしゃ)」](https://www.manasource.net/product/195603) — 在庫 74
+- [予約 【VG-DZ-SS22】 スペシャルシリーズ「ランダムマスターデッキ 26人の先導者(せんどうしゃ)」](https://www.manasource.net/product/195603) — 在庫 71
 - [予約 五等分の花嫁 カードゲーム ブースターパック vol.8 恋と青春が最高潮！ 1BOX(12パック)](https://www.manasource.net/product/153147) — 在庫 9
 
 ## cardmax ct1849（每天）— 12 件
