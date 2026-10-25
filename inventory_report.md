@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 160 件**，已知在庫共 1099 件
+**合計 161 件**，已知在庫共 1129 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -53,8 +53,9 @@
 - [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 2
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 3
 
-## manasource 2268（每天）— 6 件、在庫共 160
+## manasource 2268（每天）— 7 件、在庫共 190
 
+- [予約 ヴァイスシュヴァルツ トライアルデッキ 魔法少女ノ魔女裁判](https://www.manasource.net/product/199683) — 在庫 30
 - [予約 パルワールド オフィシャルカードゲーム ブースターパック 目覚めし伝説 1BOX](https://www.manasource.net/product/198506) — 在庫 36
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 大洗女子学園](https://www.manasource.net/product/196918) — 在庫 20
 - [予約 ヴァイスシュヴァルツ トライアルデッキ ガールズ＆パンツァー 無限軌道杯](https://www.manasource.net/product/196917) — 在庫 20
