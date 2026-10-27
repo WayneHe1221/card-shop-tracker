@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 156 件**，已知在庫共 1288 件
+**合計 156 件**，已知在庫共 1355 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -35,10 +35,10 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 大洗女子学園』(2610/30)](https://www.c-labo-online.jp/product/403399)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『ガールズ＆パンツァー 無限軌道杯』(2610/30)](https://www.c-labo-online.jp/product/403398)
 
-## gurapan 1081（每天）— 13 件、在庫共 53
+## gurapan 1081（每天）— 11 件、在庫共 43
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
-- [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 3
+- [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 2
 - [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 2
 - [BanG Dream! (夢限大みゅーたいぷ)【カートン】](https://gurapan.jp/products/detail/228069) — 在庫 6
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 3
@@ -46,22 +46,22 @@
 - [【簡易版】【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231378) — 在庫 4
 - [【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231379) — 在庫 3
 - [新日本プロレス×AEW：Forbidden Door【カートン】](https://gurapan.jp/products/detail/230475) — 在庫 9
-- [【PBS】お兄ちゃんはおしまい！N(ノーマル)4枚ずつセット](https://gurapan.jp/products/detail/231377) — 在庫 5
-- [【PBS】お兄ちゃんはおしまい！【カートン】](https://gurapan.jp/products/detail/230476) — 在庫 3
 - [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 2
-- [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 3
+- [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 2
 
-## manasource 2268（每天）— 5 件、在庫共 391
+## manasource 2268（每天）— 6 件、在庫共 470
 
 - [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX PRカードをゲットしよう！](https://www.manasource.net/product/199685) — 在庫 105
 - [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）PRカードをゲットしよう！](https://www.manasource.net/product/199684) — 在庫 7
 - [予約 パルワールド オフィシャルカードゲーム ブースターパック 目覚めし伝説 1BOX](https://www.manasource.net/product/198506) — 在庫 36
 - [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 3
+- [予約 【VG-DZ-SS22】 スペシャルシリーズ「ランダムマスターデッキ 26人の先導者(せんどうしゃ)」](https://www.manasource.net/product/195603) — 在庫 79
 - [再販タカラトミー(TAKARA TOMY) DM26-SD1 デュエル・マスターズTCG ドキドキつよいデッキ 25の王道](https://www.manasource.net/product/189696) — 在庫 240
 
-## cardmax ct1849（每天）— 13 件
+## cardmax ct1849（每天）— 14 件
 
 - [【予約販売 11月27日発売予定】ブースターパック Persona 30th Anniversary BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000235960/)
+- [【予約販売 10月30日発売予定】ブースターパック ガールズ＆パンツァー BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233358/)
 - [【予約販売 10月30日発売予定】トライアルデッキ「ガールズ＆パンツァー 大洗女子学園」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233360/)
 - [【予約販売 10月30日発売予定】トライアルデッキ「ガールズ＆パンツァー 無限軌道杯」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233361/)
 - [トライアルデッキ きんいろモザイク 15th Anniversary BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000193811/)
@@ -75,10 +75,10 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 91 件、在庫共 562
+## square-bushiroad 284（每天）— 91 件、在庫共 560
 
 - [ヴァイスシュヴァルツ ステラソラ (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110367) — 在庫 18
-- [ヴァイスシュヴァルツ ステラソラ (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110368) — 在庫 7
+- [ヴァイスシュヴァルツ ステラソラ (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110368) — 在庫 5
 - [ヴァイスシュヴァルツ ステラソラトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110369) — 在庫 8
 - [ヴァイスシュヴァルツ ステラソラトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110370) — 在庫 2
 - [ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 12
