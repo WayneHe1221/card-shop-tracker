@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 150 件**，已知在庫共 1216 件
+**合計 147 件**，已知在庫共 1155 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -18,9 +18,9 @@
 - [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/112102) — 在庫 8
 - [【予約商品・全額前金制】【11/13(金)発売】ヴァイスシュヴァルツ BanG Dream! (夢限大みゅーたいぷ) (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110371) — 在庫 54
 
-## torecolo ヴァイス新品（每天）— 1 件、在庫共 2
+## torecolo ヴァイス新品（每天）— 1 件、在庫共 1
 
-- [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 2
+- [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 1
 
 ## c-labo 2421（有庫存）（每天）— 3 件
 
@@ -28,7 +28,7 @@
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『新日本プロレス：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412835)
 - [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『AEW：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412834)
 
-## gurapan 1081（每天）— 9 件、在庫共 37
+## gurapan 1081（每天）— 8 件、在庫共 36
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
 - [BanG Dream! (夢限大みゅーたいぷ)【カートン】](https://gurapan.jp/products/detail/228069) — 在庫 6
@@ -37,15 +37,13 @@
 - [【簡易版】【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231378) — 在庫 4
 - [【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231379) — 在庫 3
 - [新日本プロレス×AEW：Forbidden Door【カートン】](https://gurapan.jp/products/detail/230475) — 在庫 9
-- [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 1
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 2
 
-## manasource 2268（每天）— 5 件、在庫共 351
+## manasource 2268（每天）— 4 件、在庫共 293
 
-- [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX PRカードをゲットしよう！](https://www.manasource.net/product/199685) — 在庫 57
-- [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）PRカードをゲットしよう！](https://www.manasource.net/product/199684) — 在庫 24
+- [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX PRカードをゲットしよう！](https://www.manasource.net/product/199685) — 在庫 45
+- [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）PRカードをゲットしよう！](https://www.manasource.net/product/199684) — 在庫 20
 - [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 3
-- [予約 【VG-DZ-SS22】 スペシャルシリーズ「ランダムマスターデッキ 26人の先導者(せんどうしゃ)」](https://www.manasource.net/product/195603) — 在庫 42
 - [再販タカラトミー(TAKARA TOMY) DM26-SD1 デュエル・マスターズTCG ドキドキつよいデッキ 25の王道](https://www.manasource.net/product/189696) — 在庫 225
 
 ## cardmax ct1849（每天）— 14 件
@@ -167,9 +165,8 @@
 
 ### 福福トレカ WSデッキ販売（每天）— 0 件
 
-### torecolo WSデッキ販売（每天）— 3 件、在庫共 3
+### torecolo WSデッキ販売（每天）— 2 件、在庫共 2
 
-- [【ヴァイス】デッキ販売 デート・ア・ライブ 8宝](https://www.torecolo.jp/shop/g/gDECK-WSDAL/) — 在庫 1
 - [【ヴァイス】デッキ販売 カードキャプターさくら 扉電源](https://www.torecolo.jp/shop/g/gDECK-WSCCS/) — 在庫 1
 - [【ヴァイス】デッキ販売 虹ヶ咲 ８枝（栞子単）](https://www.torecolo.jp/shop/g/gDECK-WSLNJ001/) — 在庫 1
 
