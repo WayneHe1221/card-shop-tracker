@@ -398,11 +398,11 @@
       "products": {
         "199685": {
           "name": "予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX PRカードをゲットしよう！",
-          "qty": 45
+          "qty": 21
         },
         "199684": {
           "name": "予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）PRカードをゲットしよう！",
-          "qty": 20
+          "qty": 16
         },
         "196912": {
           "name": "予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！",
@@ -535,6 +535,10 @@
           "name": "新日本プロレス×AEW：Forbidden Door【カートン】",
           "qty": 9
         },
+        "231375": {
+          "name": "【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
+          "qty": 3
+        },
         "231376": {
           "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
           "qty": 2
@@ -551,8 +555,10 @@
       "raw_count": 3
     },
     "fukufuku_deck": {
-      "products": {},
-      "raw_count": 22
+      "products": {
+        "89434": "D_CIDE TRAUMEREI【枝門】デッキ"
+      },
+      "raw_count": 23
     },
     "torecolo_deck": {
       "products": {
