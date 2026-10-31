@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 152 件**，已知在庫共 1168 件
+**合計 153 件**，已知在庫共 1187 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -25,11 +25,9 @@
 
 - [【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」](https://www.torecolo.jp/shop/g/g4573616016261/) — 在庫 1
 
-## c-labo 2421（有庫存）（每天）— 3 件
+## c-labo 2421（有庫存）（每天）— 1 件
 
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
-- [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『新日本プロレス：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412835)
-- [【予約】(新品)ヴァイスシュヴァルツ トライアルデッキ 『AEW：Forbidden Door』(2701/15)](https://www.c-labo-online.jp/product/412834)
 
 ## gurapan 1081（每天）— 9 件、在庫共 39
 
@@ -50,9 +48,10 @@
 - [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 3
 - [再販タカラトミー(TAKARA TOMY) DM26-SD1 デュエル・マスターズTCG ドキドキつよいデッキ 25の王道](https://www.manasource.net/product/189696) — 在庫 225
 
-## cardmax ct1849（每天）— 14 件
+## cardmax ct1849（每天）— 15 件
 
 - [【予約販売 11月27日発売予定】ブースターパック Persona 30th Anniversary BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000235960/)
+- [【予約販売 11月13日発売予定】ブースターパック BanG Dream! (夢限大みゅーたいぷ) BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000235959/)
 - [ブースターパック ガールズ＆パンツァー BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233358/)
 - [トライアルデッキ「ガールズ＆パンツァー 大洗女子学園」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233360/)
 - [トライアルデッキ「ガールズ＆パンツァー 無限軌道杯」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233361/)
@@ -67,8 +66,10 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 95 件、在庫共 613
+## square-bushiroad 284（每天）— 97 件、在庫共 632
 
+- [ヴァイスシュヴァルツ ガールズ＆パンツァー (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110898) — 在庫 12
+- [ヴァイスシュヴァルツ ガールズ＆パンツァー (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110899) — 在庫 7
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110900) — 在庫 25
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110901) — 在庫 2
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 無限軌道杯トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110902) — 在庫 24
