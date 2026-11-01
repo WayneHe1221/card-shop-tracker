@@ -1,12 +1,12 @@
 # 追蹤商品清單
 
-**合計 152 件**，已知在庫共 1183 件
+**合計 151 件**，已知在庫共 955 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
-## square-bushiroad 668（每天）— 14 件、在庫共 239
+## square-bushiroad 668（每天）— 14 件、在庫共 236
 
-- [【予約商品・全額前金制】【1/22(金)発売】ヴァイスシュヴァルツ プレミアムブースター  お兄ちゃんはおしまい！(1BOX・6パック入)(新品商品)](https://www.square-bushiroad.com/product/115018) — 在庫 16
+- [【予約商品・全額前金制】【1/22(金)発売】ヴァイスシュヴァルツ プレミアムブースター  お兄ちゃんはおしまい！(1BOX・6パック入)(新品商品)](https://www.square-bushiroad.com/product/115018) — 在庫 14
 - [【予約商品・全額前金制】【1/22(金)発売】ヴァイスシュヴァルツ プレミアムブースター  お兄ちゃんはおしまい！(1カートン・30BOX入)(1BOXあたり3600円)(新品商品)](https://www.square-bushiroad.com/product/115019) — 在庫 2
 - [【予約商品・全額前金制】【1/29(金)発売】ヴァイスシュヴァルツ 魔法少女リリカルなのは EXCEEDS  Gun Blaze Vengeance(1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/115020) — 在庫 37
 - [【予約商品・全額前金制】【1/29(金)発売】ヴァイスシュヴァルツ 魔法少女リリカルなのは EXCEEDS  Gun Blaze Vengeance(1カートン・12BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/115021) — 在庫 1
@@ -19,7 +19,7 @@
 - [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/112101) — 在庫 3
 - [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/112102) — 在庫 4
 - [【予約商品・全額前金制】【11/13(金)発売】ヴァイスシュヴァルツ BanG Dream! (夢限大みゅーたいぷ) (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110371) — 在庫 54
-- [【予約商品・全額前金制】【11/13(金)発売】ヴァイスシュヴァルツ BanG Dream! (夢限大みゅーたいぷ) (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110372) — 在庫 7
+- [【予約商品・全額前金制】【11/13(金)発売】ヴァイスシュヴァルツ BanG Dream! (夢限大みゅーたいぷ) (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110372) — 在庫 6
 
 ## torecolo ヴァイス新品（每天）— 0 件
 
@@ -39,12 +39,11 @@
 - [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 2
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 2
 
-## manasource 2268（每天）— 4 件、在庫共 265
+## manasource 2268（每天）— 3 件、在庫共 40
 
 - [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX PRカードをゲットしよう！](https://www.manasource.net/product/199685) — 在庫 21
 - [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）PRカードをゲットしよう！](https://www.manasource.net/product/199684) — 在庫 16
 - [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 3
-- [再販タカラトミー(TAKARA TOMY) DM26-SD1 デュエル・マスターズTCG ドキドキつよいデッキ 25の王道](https://www.manasource.net/product/189696) — 在庫 225
 
 ## cardmax ct1849（每天）— 15 件
 
