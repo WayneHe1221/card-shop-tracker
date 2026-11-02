@@ -394,7 +394,12 @@
       "raw_count": 477
     },
     "torecolo": {
-      "products": {},
+      "products": {
+        "4573616016261": {
+          "name": "【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」",
+          "qty": 1
+        }
+      },
       "raw_count": 5
     },
     "manasource": {
@@ -412,7 +417,7 @@
           "qty": 3
         }
       },
-      "raw_count": 10
+      "raw_count": 9
     },
     "cardmax": {
       "products": {
@@ -516,9 +521,13 @@
           "name": "【トライアルデッキ】東方Project【カートン】",
           "qty": 6
         },
+        "228070": {
+          "name": "BanG Dream! [夢限大みゅーたいぷ]RR以下4枚ずつセット",
+          "qty": 4
+        },
         "228069": {
           "name": "BanG Dream! [夢限大みゅーたいぷ]【カートン】",
-          "qty": 5
+          "qty": 4
         },
         "228839": {
           "name": "【簡易版】アズールレーン Vol.3RR以下4枚ずつセット",
@@ -542,14 +551,14 @@
         },
         "231375": {
           "name": "【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
-          "qty": 1
+          "qty": 3
         },
         "231376": {
           "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
-          "qty": 2
+          "qty": 3
         }
       },
-      "raw_count": 21
+      "raw_count": 19
     },
     "clabo": {
       "products": {
