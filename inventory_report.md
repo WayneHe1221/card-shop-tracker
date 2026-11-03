@@ -1,14 +1,14 @@
 # 追蹤商品清單
 
-**合計 151 件**，已知在庫共 1074 件
+**合計 151 件**，已知在庫共 1062 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
-## square-bushiroad 668（每天）— 13 件、在庫共 217
+## square-bushiroad 668（每天）— 13 件、在庫共 212
 
 - [【予約商品・全額前金制】【1/22(金)発売】ヴァイスシュヴァルツ プレミアムブースター  お兄ちゃんはおしまい！(1BOX・6パック入)(新品商品)](https://www.square-bushiroad.com/product/115018) — 在庫 14
 - [【予約商品・全額前金制】【1/22(金)発売】ヴァイスシュヴァルツ プレミアムブースター  お兄ちゃんはおしまい！(1カートン・30BOX入)(1BOXあたり3600円)(新品商品)](https://www.square-bushiroad.com/product/115019) — 在庫 1
-- [【予約商品・全額前金制】【1/29(金)発売】ヴァイスシュヴァルツ 魔法少女リリカルなのは EXCEEDS  Gun Blaze Vengeance(1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/115020) — 在庫 19
+- [【予約商品・全額前金制】【1/29(金)発売】ヴァイスシュヴァルツ 魔法少女リリカルなのは EXCEEDS  Gun Blaze Vengeance(1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/115020) — 在庫 14
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/113104) — 在庫 48
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/113105) — 在庫 7
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113106) — 在庫 28
@@ -28,23 +28,23 @@
 
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
 
-## gurapan 1081（每天）— 10 件、在庫共 42
+## gurapan 1081（每天）— 10 件、在庫共 41
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 6
 - [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 4
 - [BanG Dream! (夢限大みゅーたいぷ)【カートン】](https://gurapan.jp/products/detail/228069) — 在庫 4
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 2
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 4
-- [【簡易版】【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231378) — 在庫 4
+- [【簡易版】【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231378) — 在庫 3
 - [【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231379) — 在庫 3
 - [新日本プロレス×AEW：Forbidden Door【カートン】](https://gurapan.jp/products/detail/230475) — 在庫 9
 - [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 3
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 3
 
-## manasource 2268（每天）— 3 件、在庫共 172
+## manasource 2268（每天）— 3 件、在庫共 170
 
-- [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX PRカードをゲットしよう！](https://www.manasource.net/product/199685) — 在庫 129
-- [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）PRカードをゲットしよう！](https://www.manasource.net/product/199684) — 在庫 40
+- [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX PRカードをゲットしよう！](https://www.manasource.net/product/199685) — 在庫 128
+- [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）PRカードをゲットしよう！](https://www.manasource.net/product/199684) — 在庫 39
 - [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 3
 
 ## cardmax ct1849（每天）— 15 件
@@ -65,16 +65,16 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 97 件、在庫共 631
+## square-bushiroad 284（每天）— 97 件、在庫共 627
 
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110898) — 在庫 12
-- [ヴァイスシュヴァルツ ガールズ＆パンツァー (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110899) — 在庫 7
+- [ヴァイスシュヴァルツ ガールズ＆パンツァー (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110899) — 在庫 5
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110900) — 在庫 25
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110901) — 在庫 2
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 無限軌道杯トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110902) — 在庫 24
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 無限軌道杯トライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110903) — 在庫 2
-- [ヴァイスシュヴァルツ ステラソラ (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110367) — 在庫 18
-- [ヴァイスシュヴァルツ ステラソラ (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110368) — 在庫 4
+- [ヴァイスシュヴァルツ ステラソラ (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110367) — 在庫 17
+- [ヴァイスシュヴァルツ ステラソラ (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110368) — 在庫 3
 - [ヴァイスシュヴァルツ ステラソラトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110369) — 在庫 8
 - [ヴァイスシュヴァルツ ステラソラトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110370) — 在庫 2
 - [ヴァイスシュヴァルツ anemoi (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/109800) — 在庫 12
