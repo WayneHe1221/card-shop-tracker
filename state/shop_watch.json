@@ -386,13 +386,8 @@
       "raw_count": 477
     },
     "torecolo": {
-      "products": {
-        "4573616016261": {
-          "name": "【カートン予約販売】ブースター「BanG Dream! 夢限大みゅｰたいぷ」",
-          "qty": 1
-        }
-      },
-      "raw_count": 5
+      "products": {},
+      "raw_count": 4
     },
     "manasource": {
       "products": {
@@ -512,7 +507,7 @@
         },
         "228071": {
           "name": "【簡易版】BanG Dream! [夢限大みゅーたいぷ]RR以下4枚ずつセット",
-          "qty": 4
+          "qty": 3
         },
         "228070": {
           "name": "BanG Dream! [夢限大みゅーたいぷ]RR以下4枚ずつセット",
