@@ -559,6 +559,10 @@
     },
     "torecolo_deck": {
       "products": {
+        "DECK-WSNIK": {
+          "name": "【ヴァイス】デッキ販売 NIKKE4宝4門",
+          "qty": 3
+        },
         "DECK-WSCCS": {
           "name": "【ヴァイス】デッキ販売 カードキャプターさくら 扉電源",
           "qty": 1

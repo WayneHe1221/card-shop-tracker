@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 147 件**，已知在庫共 1053 件
+**合計 148 件**，已知在庫共 1056 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -164,8 +164,9 @@
 
 ### 福福トレカ WSデッキ販売（每天）— 0 件
 
-### torecolo WSデッキ販売（每天）— 2 件、在庫共 2
+### torecolo WSデッキ販売（每天）— 3 件、在庫共 5
 
+- [【ヴァイス】デッキ販売 NIKKE4宝4門](https://www.torecolo.jp/shop/g/gDECK-WSNIK/) — 在庫 3
 - [【ヴァイス】デッキ販売 カードキャプターさくら 扉電源](https://www.torecolo.jp/shop/g/gDECK-WSCCS/) — 在庫 1
 - [【ヴァイス】デッキ販売 虹ヶ咲 ８枝（栞子単）](https://www.torecolo.jp/shop/g/gDECK-WSLNJ001/) — 在庫 1
 
