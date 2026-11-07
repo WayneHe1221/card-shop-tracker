@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 149 件**，已知在庫共 1044 件
+**合計 149 件**，已知在庫共 1041 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -39,11 +39,11 @@
 - [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 2
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 3
 
-## manasource 2268（每天）— 3 件、在庫共 170
+## manasource 2268（每天）— 3 件、在庫共 167
 
 - [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX PRカードをゲットしよう！](https://www.manasource.net/product/199685) — 在庫 128
 - [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）PRカードをゲットしよう！](https://www.manasource.net/product/199684) — 在庫 39
-- [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912) — 在庫 3
+- [予約 Z/X -Zillions of enemy X- GAMBLING FORCE 1カートン(12BOX）カートンで購入がお得！？ お楽しみパックが３パックへ増量！！](https://www.manasource.net/product/196912)
 
 ## cardmax ct1849（每天）— 15 件
 
