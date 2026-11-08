@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 147 件**，已知在庫共 1024 件
+**合計 148 件**，已知在庫共 1021 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -19,9 +19,10 @@
 
 ## torecolo ヴァイス新品（每天）— 0 件
 
-## c-labo 2421（有庫存）（每天）— 1 件
+## c-labo 2421（有庫存）（每天）— 2 件
 
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
+- [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『BanG Dream! (夢限大みゅーたいぷ)』(1BOX=10パック) (2611/13)](https://www.c-labo-online.jp/product/400096)
 
 ## gurapan 1081（每天）— 11 件、在庫共 41
 
@@ -61,10 +62,10 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 95 件、在庫共 603
+## square-bushiroad 284（每天）— 95 件、在庫共 600
 
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110898) — 在庫 12
-- [ヴァイスシュヴァルツ ガールズ＆パンツァー (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110899) — 在庫 5
+- [ヴァイスシュヴァルツ ガールズ＆パンツァー (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/110899) — 在庫 2
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110900) — 在庫 25
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110901) — 在庫 2
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 無限軌道杯トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110902) — 在庫 24
