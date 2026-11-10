@@ -386,7 +386,12 @@
       "raw_count": 477
     },
     "torecolo": {
-      "products": {},
+      "products": {
+        "4573616015936": {
+          "name": "【カートン予約販売】ブースター「魔法少女ﾘﾘｶﾙなのは EXCEEDS Gun Blaze Vengeance」",
+          "qty": 1
+        }
+      },
       "raw_count": 4
     },
     "manasource": {
@@ -542,7 +547,7 @@
         },
         "231376": {
           "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
-          "qty": 3
+          "qty": 2
         }
       },
       "raw_count": 18
