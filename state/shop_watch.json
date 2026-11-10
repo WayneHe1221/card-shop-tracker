@@ -386,13 +386,8 @@
       "raw_count": 477
     },
     "torecolo": {
-      "products": {
-        "4573616015936": {
-          "name": "【カートン予約販売】ブースター「魔法少女ﾘﾘｶﾙなのは EXCEEDS Gun Blaze Vengeance」",
-          "qty": 1
-        }
-      },
-      "raw_count": 4
+      "products": {},
+      "raw_count": 5
     },
     "manasource": {
       "products": {
@@ -515,7 +510,7 @@
         },
         "228070": {
           "name": "BanG Dream! [夢限大みゅーたいぷ]RR以下4枚ずつセット",
-          "qty": 6
+          "qty": 5
         },
         "228069": {
           "name": "BanG Dream! [夢限大みゅーたいぷ]【カートン】",
