@@ -502,11 +502,11 @@
         },
         "228071": {
           "name": "【簡易版】BanG Dream! [夢限大みゅーたいぷ]RR以下4枚ずつセット",
-          "qty": 3
+          "qty": 2
         },
         "228070": {
           "name": "BanG Dream! [夢限大みゅーたいぷ]RR以下4枚ずつセット",
-          "qty": 5
+          "qty": 2
         },
         "234000": {
           "name": "【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット",
@@ -515,6 +515,10 @@
         "233999": {
           "name": "Persona 30th AnniversaryRR以下4枚ずつセット",
           "qty": 5
+        },
+        "228835": {
+          "name": "Persona 30th Anniversary【カートン】",
+          "qty": 7
         },
         "228839": {
           "name": "【簡易版】アズールレーン Vol.3RR以下4枚ずつセット",
@@ -549,10 +553,9 @@
     },
     "clabo": {
       "products": {
-        "412836": "【予約】[新品ボックス]ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) [2701/15]",
-        "400096": "[新品ボックス]ヴァイスシュヴァルツ ブースターパック 『BanG Dream! [夢限大みゅーたいぷ]』(1BOX=10パック) [2611/13]"
+        "412836": "【予約】[新品ボックス]ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) [2701/15]"
       },
-      "raw_count": 2
+      "raw_count": 1
     },
     "fukufuku_deck": {
       "products": {},
@@ -562,7 +565,7 @@
       "products": {
         "DECK-WSNIK": {
           "name": "【ヴァイス】デッキ販売 NIKKE4宝4門",
-          "qty": 2
+          "qty": 1
         }
       },
       "raw_count": 50
