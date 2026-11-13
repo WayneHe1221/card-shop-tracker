@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 138 件**，已知在庫共 923 件
+**合計 138 件**，已知在庫共 922 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -57,7 +57,7 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 93 件、在庫共 583
+## square-bushiroad 284（每天）— 93 件、在庫共 582
 
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110898) — 在庫 9
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110900) — 在庫 21
@@ -107,7 +107,7 @@
 - [★SALE★ヴァイスシュヴァルツ ゆるキャン△ SEASON３ (1カートン・24BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/66234) — 在庫 1
 - [ヴァイスシュヴァルツ 富士見ファンタジア文庫 Vol.2 トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/65052) — 在庫 17
 - [ヴァイスシュヴァルツ 富士見ファンタジア文庫 Vol.2 トライアルデッキ(1カートン・48個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/65053) — 在庫 1
-- [ヴァイスシュヴァルツ 『キャプテン翼』 (1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/62337) — 在庫 14
+- [ヴァイスシュヴァルツ 『キャプテン翼』 (1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/62337) — 在庫 13
 - [ヴァイスシュヴァルツ 『キャプテン翼』 (1カートン・24BOX入)(1BOXあたり4800円)(新品商品)](https://www.square-bushiroad.com/product/62338) — 在庫 1
 - [ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Next Twinkle!(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/58303) — 在庫 9
 - [★SALE★ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Next Twinkle! (1カートン・24BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/58304) — 在庫 2
