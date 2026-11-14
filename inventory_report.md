@@ -1,10 +1,10 @@
 # 追蹤商品清單
 
-**合計 138 件**，已知在庫共 922 件
+**合計 141 件**，已知在庫共 926 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
-## square-bushiroad 668（每天）— 8 件、在庫共 139
+## square-bushiroad 668（每天）— 6 件、在庫共 115
 
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/113104) — 在庫 48
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/113105) — 在庫 7
@@ -12,8 +12,6 @@
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113107) — 在庫 2
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113108) — 在庫 28
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113109) — 在庫 2
-- [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/112101) — 在庫 21
-- [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/112102) — 在庫 3
 
 ## torecolo ヴァイス新品（每天）— 0 件
 
@@ -21,12 +19,13 @@
 
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
 
-## gurapan 1081（每天）— 12 件、在庫共 39
+## gurapan 1081（每天）— 15 件、在庫共 67
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 2
 - [【簡易版】BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228071) — 在庫 2
 - [BanG Dream! (夢限大みゅーたいぷ)RR以下4枚ずつセット](https://gurapan.jp/products/detail/228070) — 在庫 2
-- [Persona 30th Anniversary【カートン】](https://gurapan.jp/products/detail/228835) — 在庫 4
+- [【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/234000) — 在庫 6
+- [Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/233999) — 在庫 6
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 4
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 4
 - [【簡易版】【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231378) — 在庫 3
@@ -34,18 +33,22 @@
 - [新日本プロレス×AEW：Forbidden Door【カートン】](https://gurapan.jp/products/detail/230475) — 在庫 9
 - [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 2
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 2
-- [【簡易版】MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット](https://gurapan.jp/products/detail/234011) — 在庫 2
+- [【簡易版】MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット](https://gurapan.jp/products/detail/234011) — 在庫 4
+- [MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット](https://gurapan.jp/products/detail/234010) — 在庫 4
+- [MyGO!!!!! × Ave Mujica Vol.2【カートン】](https://gurapan.jp/products/detail/234009) — 在庫 14
 
 ## manasource 2268（每天）— 2 件、在庫共 153
 
 - [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX PRカードをゲットしよう！](https://www.manasource.net/product/199685) — 在庫 115
 - [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）PRカードをゲットしよう！](https://www.manasource.net/product/199684) — 在庫 38
 
-## cardmax ct1849（每天）— 13 件
+## cardmax ct1849（每天）— 15 件
 
 - [【予約販売 11月27日発売予定】ブースターパック Persona 30th Anniversary BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000235960/)
 - [ブースターパック BanG Dream! (夢限大みゅーたいぷ) BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000235959/)
 - [ブースターパック ガールズ＆パンツァー BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233358/)
+- [トライアルデッキ「ガールズ＆パンツァー 大洗女子学園」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233360/)
+- [トライアルデッキ「ガールズ＆パンツァー 無限軌道杯」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233361/)
 - [トライアルデッキ きんいろモザイク 15th Anniversary BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000193811/)
 - [トライアルデッキ 怪獣８号 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000185672/)
 - [トライアルデッキ 負けヒロインが多すぎる！ BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000180669/)
