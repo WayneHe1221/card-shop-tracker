@@ -384,12 +384,12 @@
     "manasource": {
       "products": {
         "199685": {
-          "name": "予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX PRカードをゲットしよう！",
-          "qty": 103
+          "name": "予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX",
+          "qty": 43
         },
         "199684": {
-          "name": "予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）PRカードをゲットしよう！",
-          "qty": 34
+          "name": "予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）",
+          "qty": 21
         }
       },
       "raw_count": 9
@@ -498,15 +498,15 @@
         },
         "228070": {
           "name": "BanG Dream! [夢限大みゅーたいぷ]RR以下4枚ずつセット",
-          "qty": 3
+          "qty": 2
         },
         "234000": {
           "name": "【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 5
+          "qty": 4
         },
         "233999": {
           "name": "Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 3
+          "qty": 2
         },
         "228839": {
           "name": "【簡易版】アズールレーン Vol.3RR以下4枚ずつセット",
@@ -530,7 +530,11 @@
         },
         "231375": {
           "name": "【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
-          "qty": 2
+          "qty": 3
+        },
+        "231376": {
+          "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
+          "qty": 3
         },
         "234011": {
           "name": "【簡易版】MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット",
@@ -542,7 +546,7 @@
         },
         "234009": {
           "name": "MyGO!!!!! × Ave Mujica Vol.2【カートン】",
-          "qty": 8
+          "qty": 6
         }
       },
       "raw_count": 26
