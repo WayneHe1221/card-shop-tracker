@@ -396,12 +396,6 @@
     },
     "cardmax": {
       "products": {
-        "000000235960": {
-          "name": "【予約販売 11月27日発売予定】ブースターパック Persona 30th Anniversary BOX【ヴァイスシュヴァルツ】",
-          "prices": [
-            4400
-          ]
-        },
         "000000235959": {
           "name": "ブースターパック BanG Dream! [夢限大みゅーたいぷ] BOX【ヴァイスシュヴァルツ】",
           "prices": [
@@ -546,7 +540,7 @@
         },
         "234009": {
           "name": "MyGO!!!!! × Ave Mujica Vol.2【カートン】",
-          "qty": 6
+          "qty": 5
         }
       },
       "raw_count": 26
