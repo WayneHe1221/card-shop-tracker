@@ -490,16 +490,20 @@
           "name": "【トライアルデッキ】東方Project【カートン】",
           "qty": 2
         },
-        "228070": {
-          "name": "BanG Dream! [夢限大みゅーたいぷ]RR以下4枚ずつセット",
-          "qty": 2
-        },
         "234000": {
           "name": "【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 3
+          "qty": 5
         },
         "233999": {
           "name": "Persona 30th AnniversaryRR以下4枚ずつセット",
+          "qty": 5
+        },
+        "228835": {
+          "name": "Persona 30th Anniversary【カートン】",
+          "qty": 2
+        },
+        "228838": {
+          "name": "超かぐや姫！N(ノーマル)4枚ずつセット",
           "qty": 2
         },
         "228839": {
@@ -516,7 +520,7 @@
         },
         "231379": {
           "name": "【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット",
-          "qty": 3
+          "qty": 2
         },
         "230475": {
           "name": "新日本プロレス×AEW：Forbidden Door【カートン】",
@@ -530,9 +534,13 @@
           "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
           "qty": 3
         },
+        "231374": {
+          "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance【カートン】",
+          "qty": 12
+        },
         "234011": {
           "name": "【簡易版】MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット",
-          "qty": 1
+          "qty": 4
         },
         "234010": {
           "name": "MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット",
@@ -543,7 +551,7 @@
           "qty": 5
         }
       },
-      "raw_count": 26
+      "raw_count": 24
     },
     "clabo": {
       "products": {
@@ -556,7 +564,24 @@
       "raw_count": 23
     },
     "torecolo_deck": {
-      "products": {},
+      "products": {
+        "DECK-WSBAV1": {
+          "name": "【ヴァイス】デッキ販売 ブルアカ 枝門",
+          "qty": 1
+        },
+        "DECK-WSLNJ004": {
+          "name": "【ヴァイス】デッキ販売 虹ヶ咲 扉枝",
+          "qty": 1
+        },
+        "DECK-WSLNJ003": {
+          "name": "【ヴァイス】デッキ販売 虹ヶ咲 ８電源（せつ菜）",
+          "qty": 1
+        },
+        "DECK-WSLNJ002": {
+          "name": "【ヴァイス】デッキ販売 虹ヶ咲 ８枝（しずかす）",
+          "qty": 1
+        }
+      },
       "raw_count": 50
     },
     "clabo_deck": {
