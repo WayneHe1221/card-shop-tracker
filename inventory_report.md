@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 146 件**，已知在庫共 891 件
+**合計 144 件**，已知在庫共 889 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -21,12 +21,11 @@
 
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
 
-## gurapan 1081（每天）— 15 件、在庫共 63
+## gurapan 1081（每天）— 14 件、在庫共 61
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 2
 - [【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/234000) — 在庫 5
-- [Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/233999) — 在庫 5
-- [Persona 30th Anniversary【カートン】](https://gurapan.jp/products/detail/228835) — 在庫 1
+- [Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/233999) — 在庫 4
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 4
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 4
 - [【簡易版】【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231378) — 在庫 3
@@ -44,9 +43,8 @@
 - [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX](https://www.manasource.net/product/199685) — 在庫 43
 - [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）](https://www.manasource.net/product/199684) — 在庫 21
 
-## cardmax ct1849（每天）— 14 件
+## cardmax ct1849（每天）— 13 件
 
-- [ブースターパック BanG Dream! (夢限大みゅーたいぷ) BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000235959/)
 - [ブースターパック ガールズ＆パンツァー BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233358/)
 - [トライアルデッキ「ガールズ＆パンツァー 大洗女子学園」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233360/)
 - [トライアルデッキ「ガールズ＆パンツァー 無限軌道杯」 BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000233361/)
