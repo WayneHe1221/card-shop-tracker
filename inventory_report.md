@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 144 件**，已知在庫共 882 件
+**合計 144 件**，已知在庫共 880 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -21,12 +21,12 @@
 
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
 
-## gurapan 1081（每天）— 14 件、在庫共 56
+## gurapan 1081（每天）— 14 件、在庫共 54
 
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 2
-- [【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/234000) — 在庫 4
+- [【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/234000) — 在庫 3
 - [Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/233999) — 在庫 3
-- [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 3
+- [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 2
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 4
 - [【簡易版】【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231378) — 在庫 3
 - [【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット](https://gurapan.jp/products/detail/231379) — 在庫 2
