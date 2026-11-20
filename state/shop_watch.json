@@ -379,7 +379,7 @@
     },
     "torecolo": {
       "products": {},
-      "raw_count": 3
+      "raw_count": 4
     },
     "manasource": {
       "products": {
@@ -480,13 +480,17 @@
     },
     "gurapan": {
       "products": {
+        "214729": {
+          "name": "【予約販売】【再販】ブースターパック東方Project【カートン】",
+          "qty": 4
+        },
         "214730": {
           "name": "【トライアルデッキ】東方Project【カートン】",
           "qty": 2
         },
         "234000": {
           "name": "【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 5
+          "qty": 4
         },
         "233999": {
           "name": "Persona 30th AnniversaryRR以下4枚ずつセット",
@@ -522,7 +526,7 @@
         },
         "231374": {
           "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance【カートン】",
-          "qty": 7
+          "qty": 5
         },
         "234011": {
           "name": "【簡易版】MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット",
@@ -534,10 +538,10 @@
         },
         "234009": {
           "name": "MyGO!!!!! × Ave Mujica Vol.2【カートン】",
-          "qty": 3
+          "qty": 2
         }
       },
-      "raw_count": 24
+      "raw_count": 25
     },
     "clabo": {
       "products": {
@@ -572,12 +576,16 @@
     },
     "clabo_deck": {
       "products": {
-        "421372": {
-          "name": "【WS】《緑》ViVid Strike! 8宝 デッキ",
+        "423362": {
+          "name": "【WS】《赤緑》五等分の花嫁 8扉 デッキ",
+          "qty": 1
+        },
+        "423363": {
+          "name": "【WS】《赤黄青》五等分の花嫁 8電源 デッキ",
           "qty": 1
         }
       },
-      "raw_count": 1
+      "raw_count": 2
     },
     "hobbystation_deck": {
       "products": {

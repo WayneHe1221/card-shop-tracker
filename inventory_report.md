@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 145 件**，已知在庫共 935 件
+**合計 147 件**，已知在庫共 936 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -22,10 +22,11 @@
 
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
 
-## gurapan 1081（每天）— 14 件、在庫共 60
+## gurapan 1081（每天）— 15 件、在庫共 60
 
+- [【予約販売】【再販】ブースターパック東方Project【カートン】](https://gurapan.jp/products/detail/214729) — 在庫 4
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 2
-- [【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/234000) — 在庫 5
+- [【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/234000) — 在庫 4
 - [Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/233999) — 在庫 5
 - [【簡易版】アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228839) — 在庫 5
 - [アズールレーン Vol.3RR以下4枚ずつセット](https://gurapan.jp/products/detail/228840) — 在庫 4
@@ -34,10 +35,10 @@
 - [新日本プロレス×AEW：Forbidden Door【カートン】](https://gurapan.jp/products/detail/230475) — 在庫 9
 - [【簡易版】魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231375) — 在庫 4
 - [魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット](https://gurapan.jp/products/detail/231376) — 在庫 3
-- [魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance【カートン】](https://gurapan.jp/products/detail/231374) — 在庫 7
+- [魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance【カートン】](https://gurapan.jp/products/detail/231374) — 在庫 5
 - [【簡易版】MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット](https://gurapan.jp/products/detail/234011) — 在庫 4
 - [MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット](https://gurapan.jp/products/detail/234010) — 在庫 4
-- [MyGO!!!!! × Ave Mujica Vol.2【カートン】](https://gurapan.jp/products/detail/234009) — 在庫 3
+- [MyGO!!!!! × Ave Mujica Vol.2【カートン】](https://gurapan.jp/products/detail/234009) — 在庫 2
 
 ## manasource 2268（每天）— 2 件、在庫共 64
 
@@ -167,9 +168,10 @@
 - [【ヴァイス】デッキ販売 虹ヶ咲 ８電源（せつ菜）](https://www.torecolo.jp/shop/g/gDECK-WSLNJ003/) — 在庫 1
 - [【ヴァイス】デッキ販売 虹ヶ咲 ８枝（しずかす）](https://www.torecolo.jp/shop/g/gDECK-WSLNJ002/) — 在庫 1
 
-### c-labo WSデッキ販売（每天）— 1 件、在庫共 1
+### c-labo WSデッキ販売（每天）— 2 件、在庫共 2
 
-- [【WS】《緑》ViVid Strike! 8宝 デッキ](https://www.c-labo-online.jp/product/421372) — 在庫 1
+- [【WS】《赤緑》五等分の花嫁 8扉 デッキ](https://www.c-labo-online.jp/product/423362) — 在庫 1
+- [【WS】《赤黄青》五等分の花嫁 8電源 デッキ](https://www.c-labo-online.jp/product/423363) — 在庫 1
 
 ### Hobby Station WSデッキ販売（每天）— 6 件、在庫共 6
 
