@@ -1,20 +1,20 @@
 # 追蹤商品清單
 
-**合計 146 件**，已知在庫共 933 件
+**合計 150 件**，已知在庫共 1239 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
-## square-bushiroad 668（每天）— 9 件、在庫共 216
+## square-bushiroad 668（每天）— 9 件、在庫共 205
 
-- [【予約商品・全額前金制】【2/26(金)発売】ヴァイスシュヴァルツ MyGO!!!!! × Ave Mujica Vol.2(1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/116145) — 在庫 62
+- [【予約商品・全額前金制】【2/26(金)発売】ヴァイスシュヴァルツ MyGO!!!!! × Ave Mujica Vol.2(1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/116145) — 在庫 26
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/113104) — 在庫 48
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1カートン・12BOX入)(1BOXあたり3700円)(新品商品)](https://www.square-bushiroad.com/product/113105) — 在庫 7
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113106) — 在庫 28
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113107) — 在庫 2
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113108) — 在庫 28
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113109) — 在庫 2
-- [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/112101) — 在庫 34
-- [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/112102) — 在庫 5
+- [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/112101) — 在庫 50
+- [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/112102) — 在庫 14
 
 ## torecolo ヴァイス新品（每天）— 0 件
 
@@ -22,9 +22,9 @@
 
 - [【予約】(新品ボックス)ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) (2701/15)](https://www.c-labo-online.jp/product/412836)
 
-## gurapan 1081（每天）— 15 件、在庫共 59
+## gurapan 1081（每天）— 15 件、在庫共 58
 
-- [【予約販売】【再販】ブースターパック東方Project【カートン】](https://gurapan.jp/products/detail/214729) — 在庫 4
+- [【予約販売】【再販】ブースターパック東方Project【カートン】](https://gurapan.jp/products/detail/214729) — 在庫 3
 - [【トライアルデッキ】東方Project【カートン】](https://gurapan.jp/products/detail/214730) — 在庫 2
 - [【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/234000) — 在庫 4
 - [Persona 30th AnniversaryRR以下4枚ずつセット](https://gurapan.jp/products/detail/233999) — 在庫 4
@@ -40,10 +40,14 @@
 - [MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット](https://gurapan.jp/products/detail/234010) — 在庫 4
 - [MyGO!!!!! × Ave Mujica Vol.2【カートン】](https://gurapan.jp/products/detail/234009) — 在庫 2
 
-## manasource 2268（每天）— 2 件、在庫共 64
+## manasource 2268（每天）— 6 件、在庫共 382
 
+- [予約 魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance 1BOX](https://www.manasource.net/product/200937) — 在庫 36
+- [予約 ヴァイスシュヴァルツ ブースターパック Persona 30th Anniversary 1BOX](https://www.manasource.net/product/200936) — 在庫 84
+- [予約 ヴァイスシュヴァルツ プレミアムブースター お兄ちゃんはおしまい！ 1BOX](https://www.manasource.net/product/200935) — 在庫 150
 - [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX](https://www.manasource.net/product/199685) — 在庫 43
 - [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）](https://www.manasource.net/product/199684) — 在庫 21
+- [予約 「Lycee Overture Ver.シルキーズプラス1.0」ブースターパック 1BOX(20パック）](https://www.manasource.net/product/150019) — 在庫 48
 
 ## cardmax ct1849（每天）— 13 件
 
