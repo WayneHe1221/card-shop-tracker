@@ -494,7 +494,7 @@
       "products": {
         "214729": {
           "name": "【予約販売】【再販】ブースターパック東方Project【カートン】",
-          "qty": 1
+          "qty": 35
         },
         "214730": {
           "name": "【トライアルデッキ】東方Project【カートン】",
@@ -507,6 +507,14 @@
         "233999": {
           "name": "Persona 30th AnniversaryRR以下4枚ずつセット",
           "qty": 4
+        },
+        "228835": {
+          "name": "Persona 30th Anniversary【カートン】",
+          "qty": 7
+        },
+        "228838": {
+          "name": "超かぐや姫！N(ノーマル)4枚ずつセット",
+          "qty": 2
         },
         "228839": {
           "name": "【簡易版】アズールレーン Vol.3RR以下4枚ずつセット",
@@ -522,7 +530,7 @@
         },
         "231379": {
           "name": "【TD付】新日本プロレス×AEW：Forbidden DoorRR以下4枚ずつセット",
-          "qty": 2
+          "qty": 4
         },
         "230475": {
           "name": "新日本プロレス×AEW：Forbidden Door【カートン】",
@@ -557,9 +565,10 @@
     },
     "clabo": {
       "products": {
+        "421983": "【予約】[新品ボックス]ヴァイスシュヴァルツ ブースターパック 『MyGO!!!!! × Ave Mujica Vol.2』(1BOX=10パック) [2702/26]",
         "412836": "【予約】[新品ボックス]ヴァイスシュヴァルツ ブースターパック 『新日本プロレス×AEW：Forbidden Door』(1BOX=10パック) [2701/15]"
       },
-      "raw_count": 1
+      "raw_count": 2
     },
     "fukufuku_deck": {
       "products": {},
