@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 154 件**，已知在庫共 1281 件
+**合計 154 件**，已知在庫共 1276 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -44,10 +44,10 @@
 - [MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット](https://gurapan.jp/products/detail/234010) — 在庫 4
 - [MyGO!!!!! × Ave Mujica Vol.2【カートン】](https://gurapan.jp/products/detail/234009) — 在庫 8
 
-## manasource 2268（每天）— 6 件、在庫共 357
+## manasource 2268（每天）— 6 件、在庫共 352
 
 - [予約 魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance 1BOX](https://www.manasource.net/product/200937) — 在庫 36
-- [予約 ヴァイスシュヴァルツ ブースターパック Persona 30th Anniversary 1BOX](https://www.manasource.net/product/200936) — 在庫 59
+- [予約 ヴァイスシュヴァルツ ブースターパック Persona 30th Anniversary 1BOX](https://www.manasource.net/product/200936) — 在庫 54
 - [予約 ヴァイスシュヴァルツ プレミアムブースター お兄ちゃんはおしまい！ 1BOX](https://www.manasource.net/product/200935) — 在庫 150
 - [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX](https://www.manasource.net/product/199685) — 在庫 43
 - [予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）](https://www.manasource.net/product/199684) — 在庫 21
