@@ -1,22 +1,21 @@
 # 追蹤商品清單
 
-**合計 154 件**，已知在庫共 1276 件
+**合計 153 件**，已知在庫共 1246 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
-## square-bushiroad 668（每天）— 11 件、在庫共 224
+## square-bushiroad 668（每天）— 10 件、在庫共 194
 
 - [【予約商品・全額前金制】【2/26(金)発売】ヴァイスシュヴァルツ MyGO!!!!! × Ave Mujica Vol.2(1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/116145) — 在庫 21
-- [【予約商品・全額前金制】【1/29(金)発売】ヴァイスシュヴァルツ 魔法少女リリカルなのは EXCEEDS  Gun Blaze Vengeance(1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/115020) — 在庫 24
-- [【予約商品・全額前金制】【1/29(金)発売】ヴァイスシュヴァルツ 魔法少女リリカルなのは EXCEEDS  Gun Blaze Vengeance(1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/115021) — 在庫 6
-- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/113104) — 在庫 48
+- [【予約商品・全額前金制】【1/29(金)発売】ヴァイスシュヴァルツ 魔法少女リリカルなのは EXCEEDS  Gun Blaze Vengeance(1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/115020) — 在庫 7
+- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/113104) — 在庫 47
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス×AEW：Forbidden Door (1カートン・12BOX入)(1BOXあたり3700円)(新品商品)](https://www.square-bushiroad.com/product/113105) — 在庫 7
-- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113106) — 在庫 28
+- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113106) — 在庫 27
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ 新日本プロレス：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113107) — 在庫 2
-- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113108) — 在庫 28
+- [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113108) — 在庫 27
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113109) — 在庫 2
-- [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/112101) — 在庫 45
-- [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/112102) — 在庫 13
+- [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/112101) — 在庫 43
+- [【予約商品・全額前金制】【11/27(金)発売】ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/112102) — 在庫 11
 
 ## torecolo ヴァイス新品（每天）— 0 件
 
