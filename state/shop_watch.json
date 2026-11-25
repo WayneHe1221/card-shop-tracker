@@ -374,13 +374,8 @@
       "raw_count": 479
     },
     "torecolo": {
-      "products": {
-        "402167-172291699": {
-          "name": "【カートン予約販売】ブースター「Persona 30th Anniversary」",
-          "qty": 1
-        }
-      },
-      "raw_count": 5
+      "products": {},
+      "raw_count": 4
     },
     "manasource": {
       "products": {
@@ -495,7 +490,7 @@
       "products": {
         "214729": {
           "name": "【予約販売】【再販】ブースターパック東方Project【カートン】",
-          "qty": 35
+          "qty": 34
         },
         "214730": {
           "name": "【トライアルデッキ】東方Project【カートン】",
@@ -503,15 +498,15 @@
         },
         "234000": {
           "name": "【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 2
+          "qty": 3
         },
         "233999": {
           "name": "Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 2
+          "qty": 3
         },
         "228835": {
           "name": "Persona 30th Anniversary【カートン】",
-          "qty": 4
+          "qty": 2
         },
         "228839": {
           "name": "【簡易版】アズールレーン Vol.3RR以下4枚ずつセット",
@@ -543,7 +538,7 @@
         },
         "231374": {
           "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance【カートン】",
-          "qty": 5
+          "qty": 4
         },
         "234011": {
           "name": "【簡易版】MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット",
