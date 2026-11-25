@@ -503,7 +503,7 @@
         },
         "234000": {
           "name": "【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 5
+          "qty": 2
         },
         "233999": {
           "name": "Persona 30th AnniversaryRR以下4枚ずつセット",
@@ -511,7 +511,7 @@
         },
         "228835": {
           "name": "Persona 30th Anniversary【カートン】",
-          "qty": 5
+          "qty": 4
         },
         "228839": {
           "name": "【簡易版】アズールレーン Vol.3RR以下4枚ずつセット",
@@ -573,10 +573,6 @@
     },
     "torecolo_deck": {
       "products": {
-        "DECK-WSBAV1": {
-          "name": "【ヴァイス】デッキ販売 ブルアカ 枝門",
-          "qty": 1
-        },
         "DECK-WSLNJ004": {
           "name": "【ヴァイス】デッキ販売 虹ヶ咲 扉枝",
           "qty": 1
