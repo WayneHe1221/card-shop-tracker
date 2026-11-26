@@ -374,8 +374,13 @@
       "raw_count": 479
     },
     "torecolo": {
-      "products": {},
-      "raw_count": 4
+      "products": {
+        "4573616016582": {
+          "name": "【カートン予約販売】ブースター「MyGO!!!!!×Ave Mujica Vol.2」",
+          "qty": 1
+        }
+      },
+      "raw_count": 2
     },
     "manasource": {
       "products": {
@@ -389,7 +394,7 @@
         },
         "199685": {
           "name": "予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX",
-          "qty": 43
+          "qty": 31
         },
         "199684": {
           "name": "予約 スタートダッシュデッキ 第11弾「ロックマンエグゼ」（SD11）",
@@ -498,11 +503,11 @@
         },
         "234000": {
           "name": "【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 3
+          "qty": 2
         },
         "233999": {
           "name": "Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 3
+          "qty": 2
         },
         "228835": {
           "name": "Persona 30th Anniversary【カートン】",
@@ -550,7 +555,7 @@
         },
         "234009": {
           "name": "MyGO!!!!! × Ave Mujica Vol.2【カートン】",
-          "qty": 7
+          "qty": 6
         }
       },
       "raw_count": 25
