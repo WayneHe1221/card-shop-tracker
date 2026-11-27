@@ -1,6 +1,6 @@
 # 追蹤商品清單
 
-**合計 146 件**，已知在庫共 1171 件
+**合計 143 件**，已知在庫共 1146 件
 
 > 由 GitHub Actions 自動更新；內容隨追蹤商品變動而變。
 
@@ -14,9 +14,7 @@
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/113108) — 在庫 25
 - [【予約商品・全額前金制】【1/15(金)発売】ヴァイスシュヴァルツ AEW：Forbidden Doorトライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/113109) — 在庫 2
 
-## torecolo ヴァイス新品（每天）— 1 件、在庫共 1
-
-- [【カートン予約販売】ブースター「MyGO!!!!!×Ave Mujica Vol.2」](https://www.torecolo.jp/shop/g/g4573616016582/) — 在庫 1
+## torecolo ヴァイス新品（每天）— 0 件
 
 ## c-labo 2421（有庫存）（每天）— 2 件
 
@@ -38,9 +36,9 @@
 - [MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット](https://gurapan.jp/products/detail/234010) — 在庫 4
 - [MyGO!!!!! × Ave Mujica Vol.2【カートン】](https://gurapan.jp/products/detail/234009) — 在庫 13
 
-## manasource 2268（每天）— 6 件、在庫共 338
+## manasource 2268（每天）— 6 件、在庫共 337
 
-- [予約 タカラトミー デュエル・マスターズ TCG DM26-RP4 逆札篇 第4弾 邪神vs邪神III 〜ピース・オブ・ジ・アビス〜 1BOX](https://www.manasource.net/product/201369) — 在庫 60
+- [予約 タカラトミー デュエル・マスターズ TCG DM26-RP4 逆札篇 第4弾 邪神vs邪神III 〜ピース・オブ・ジ・アビス〜 1BOX](https://www.manasource.net/product/201369) — 在庫 59
 - [予約 魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance 1BOX](https://www.manasource.net/product/200937) — 在庫 35
 - [予約 ヴァイスシュヴァルツ プレミアムブースター お兄ちゃんはおしまい！ 1BOX](https://www.manasource.net/product/200935) — 在庫 143
 - [予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX](https://www.manasource.net/product/199685) — 在庫 31
@@ -61,10 +59,10 @@
 - [ブースターパック あやかしトライアングル BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114082/)
 - [ブースターパック 幻日のヨハネ -SUNSHINE in the MIRROR- BOX【ヴァイスシュヴァルツ】](https://www.cardmax.jp/shopdetail/000000114074/)
 
-## square-bushiroad 284（每天）— 94 件、在庫共 617
+## square-bushiroad 284（每天）— 92 件、在庫共 594
 
-- [ヴァイスシュヴァルツ Persona 30th Anniversary (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/112101) — 在庫 31
-- [ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/112102) — 在庫 6
+- [ヴァイスシュヴァルツ Persona 30th Anniversary (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/112101) — 在庫 25
+- [ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)(新品商品)](https://www.square-bushiroad.com/product/112102) — 在庫 3
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー (1BOX・10パック入)(新品商品)](https://www.square-bushiroad.com/product/110898) — 在庫 9
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/110900) — 在庫 21
 - [ヴァイスシュヴァルツ ガールズ＆パンツァー 大洗女子学園トライアルデッキ(1カートン・32個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/110901) — 在庫 2
@@ -112,8 +110,6 @@
 - [ヴァイスシュヴァルツ ゆるキャン△ SEASON３ (1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/66233) — 在庫 20
 - [ヴァイスシュヴァルツ 富士見ファンタジア文庫 Vol.2 トライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/65052) — 在庫 17
 - [ヴァイスシュヴァルツ 富士見ファンタジア文庫 Vol.2 トライアルデッキ(1カートン・48個入)(1個あたり1500円)(新品商品)](https://www.square-bushiroad.com/product/65053) — 在庫 1
-- [ヴァイスシュヴァルツ 『キャプテン翼』 (1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/62337) — 在庫 13
-- [ヴァイスシュヴァルツ 『キャプテン翼』 (1カートン・24BOX入)(1BOXあたり4800円)(新品商品)](https://www.square-bushiroad.com/product/62338) — 在庫 1
 - [ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Next Twinkle!(1BOX・12パック入)(新品商品)](https://www.square-bushiroad.com/product/58303) — 在庫 9
 - [★SALE★ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Next Twinkle! (1カートン・24BOX入)(1BOXあたり4000円)(新品商品)](https://www.square-bushiroad.com/product/58304) — 在庫 1
 - [★SALE★ヴァイスシュヴァルツ アイドルマスター シンデレラガールズ Type:Cuteトライアルデッキ(1個)(新品商品)](https://www.square-bushiroad.com/product/58305) — 在庫 4
