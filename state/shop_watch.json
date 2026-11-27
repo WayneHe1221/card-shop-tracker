@@ -4,11 +4,11 @@
       "products": {
         "112101": {
           "name": "ヴァイスシュヴァルツ Persona 30th Anniversary (1BOX・10パック入)[新品商品]",
-          "qty": 41
+          "qty": 31
         },
         "112102": {
           "name": "ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)[新品商品]",
-          "qty": 7
+          "qty": 6
         },
         "110898": {
           "name": "ヴァイスシュヴァルツ ガールズ＆パンツァー (1BOX・10パック入)[新品商品]",
@@ -421,6 +421,12 @@
     },
     "cardmax": {
       "products": {
+        "000000235960": {
+          "name": "ブースターパック Persona 30th Anniversary BOX【ヴァイスシュヴァルツ】",
+          "prices": [
+            4400
+          ]
+        },
         "000000193811": {
           "name": "トライアルデッキ きんいろモザイク 15th Anniversary BOX【ヴァイスシュヴァルツ】",
           "prices": [
@@ -495,18 +501,6 @@
           "name": "【トライアルデッキ】東方Project【カートン】",
           "qty": 2
         },
-        "234000": {
-          "name": "【簡易版】Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 1
-        },
-        "233999": {
-          "name": "Persona 30th AnniversaryRR以下4枚ずつセット",
-          "qty": 1
-        },
-        "228835": {
-          "name": "Persona 30th Anniversary【カートン】",
-          "qty": 1
-        },
         "228839": {
           "name": "【簡易版】アズールレーン Vol.3RR以下4枚ずつセット",
           "qty": 5
@@ -535,10 +529,6 @@
           "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze VengeanceRR以下4枚ずつセット",
           "qty": 3
         },
-        "231374": {
-          "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance【カートン】",
-          "qty": 4
-        },
         "234011": {
           "name": "【簡易版】MyGO!!!!! × Ave Mujica Vol.2RR以下4枚ずつセット",
           "qty": 4
@@ -549,7 +539,7 @@
         },
         "234009": {
           "name": "MyGO!!!!! × Ave Mujica Vol.2【カートン】",
-          "qty": 6
+          "qty": 13
         }
       },
       "raw_count": 25
