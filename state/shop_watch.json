@@ -4,7 +4,7 @@
       "products": {
         "112101": {
           "name": "ヴァイスシュヴァルツ Persona 30th Anniversary (1BOX・10パック入)[新品商品]",
-          "qty": 25
+          "qty": 23
         },
         "112102": {
           "name": "ヴァイスシュヴァルツ Persona 30th Anniversary (1カートン・12BOX入)(1BOXあたり4400円)[新品商品]",
@@ -374,7 +374,12 @@
       "raw_count": 481
     },
     "torecolo": {
-      "products": {},
+      "products": {
+        "4573616016582": {
+          "name": "【カートン予約販売】ブースター「MyGO!!!!!×Ave Mujica Vol.2」",
+          "qty": 1
+        }
+      },
       "raw_count": 2
     },
     "manasource": {
@@ -389,7 +394,7 @@
         },
         "200935": {
           "name": "予約 ヴァイスシュヴァルツ プレミアムブースター お兄ちゃんはおしまい！ 1BOX",
-          "qty": 143
+          "qty": 83
         },
         "199685": {
           "name": "予約 EXパック第54弾「ロックマンX ロックマンエグゼ 流星のロックマン」（E54）1BOX",
